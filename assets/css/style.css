@@ -105,6 +105,14 @@ main {
 
 
 }
+/*STAFF*/
+.staff{
+    background: url(../images/group.jpg)
+    position : relative;
+    height: 380px;
+    width: 100%;
+
+}
 
 /* Footer */
 /*.footer {
