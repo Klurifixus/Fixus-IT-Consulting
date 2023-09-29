@@ -120,27 +120,26 @@ form {
     border: 1px solid #ffffff;
     color: #ffffff;
     font-size: 15px;
-    background: transparent;
+    background: rgba(0, 0, 0, 0.5);
 }
 .contact-text {
     width: 100%;
     padding: 8px;
     outline: 0;
     border: 1px solid #ffffff;
-    color: #555;
+    color: #ffffff;
     font-size: 19px;
-    background: #ffffff;
+    background: rgba(0, 0, 0, 0.5);
     
 }
 .contact-button{
-    display:flex;
-    align-items: center;
-    padding: 1rem;
-    font-family: 'sans-serif';
-    background-color: #64ccc5;
+    padding: 1rem 0;
+    font-family: 'sans-serif' 'Montserrat';
+    background-color: #053b50;
+    border: 1px solid #ffffff;
+    font-size: medium;
     color:#ffffff;
-    border-color: #ffffff;
-    border-radius: 50%;
+    width: 100%;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
     
     
