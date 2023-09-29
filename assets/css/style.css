@@ -109,9 +109,14 @@ main {
 .staff {
     background: url(../images/group.jpg) no-repeat center/cover;
     position : relative;
+    display:flex
     height: 380px;
     width: 100%;
 
+}
+.thefixus {
+    display: flex;
+    justify-content: space-between; 
 }
 
 /* Footer */
