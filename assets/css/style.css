@@ -109,13 +109,14 @@ main {
 .staff {
     background: url(../images/group.jpg) no-repeat center/cover;
     position : relative;
-    display:flex
     height: 380px;
     width: 100%;
+    text-align: left;
+    font-size: 14pt;
 
 }
 .thefixus {
-    display: flex;
+    
     justify-content: space-between; 
 }
 
