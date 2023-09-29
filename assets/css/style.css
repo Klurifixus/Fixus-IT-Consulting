@@ -95,7 +95,21 @@ main {
     margin-top: 4rem;
 }
 
+/*HERO*/
+.hero {
+    background: url(../images/arbete.jpg) no-repeat center/cover;
+    position: relative;
+    height: 380px;
+    width: 100%;
+    
+
+
+}
+
 /* Footer */
+/*.footer {
+    
+}*/
 #social-networks {
     text-align: center;
     padding: 20px 0;
