@@ -105,6 +105,7 @@ main {
     
 }
 form {
+    margin-top: 12rem;
     width: 90%;
     max-width: 600px;
 }
@@ -112,14 +113,28 @@ form {
     margin-bottom: 30px;
 
 }
-.contact-input, .contact-text{
+.contact-input {
     width: 100%;
-    padding: 10px;
+    padding: 8px;
     outline: 0;
     border: 1px solid #ffffff;
-    color: #ffffff
+    color: #ffffff;
     font-size: 15px;
     background: transparent;
+}
+.contact-text {
+    width: 100%;
+    padding: 8px;
+    outline: 0;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+    font-size: 15px;
+    background: #ffffff;
+    
+}
+.contact-button{
+    display:flex;
+    align-items: center;
 }
 /*HERO*/
 .hero {
