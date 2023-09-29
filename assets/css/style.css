@@ -97,10 +97,11 @@ main {
 
 /*HERO*/
 .hero {
-    background: url(../images/arbete.jpg) no-repeat center/cover;
+    background: url(../images/group.jpg) no-repeat center/cover;
     position: relative;
     height: 380px;
     width: 100%;
+    
     
 
 
@@ -109,7 +110,7 @@ main {
 .staff {
     background: url(../images/group.jpg) no-repeat center/cover;
     position : relative;
-    height: 380px;
+    max-height: 380px;
     width: 100%;
     text-align: left;
     font-size: 14pt;
