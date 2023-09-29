@@ -109,15 +109,29 @@ main {
 
 }
 /*STAFF*/
+
 .staff {
     background: url(../images/kontor.jpg) no-repeat center/cover;
     position : relative;
     height: 380px;
     width: 100%;
     text-align: left;
-    
-
 }
+
+.staff-h2 {
+    padding: 1rem 3rem;
+}
+
+.staff-list {
+    padding: 2rem 5rem;
+}
+
+/* List in staff */
+.staff-list-h3 {
+    margin-bottom: 0.7rem;
+}
+
+
 /*THEFIXUS*/
 .thefixus {
     
@@ -126,7 +140,7 @@ main {
 .trouble {
     background: url(../images/trouble.jpg) no-repeat center/cover;
     position : relative;
-    max-height: 380px;
+    height: 380px;
     width: 100%;
     text-align: left;
     font-size: 14pt;
