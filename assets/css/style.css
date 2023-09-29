@@ -106,8 +106,8 @@ main {
 
 }
 /*STAFF*/
-.staff{
-    background: url(../images/group.jpg)
+.staff {
+    background: url(../images/group.jpg) no-repeat center/cover;
     position : relative;
     height: 380px;
     width: 100%;
