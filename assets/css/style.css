@@ -97,10 +97,12 @@ main {
 
 /*HERO*/
 .hero {
-    background: url(../images/group.jpg) no-repeat center/cover;
+    background: url(../images/office.jpg) no-repeat center/cover;
     position: relative;
     height: 380px;
     width: 100%;
+    color:#053b50;
+
     
     
 
