@@ -112,10 +112,10 @@ main {
 .staff {
     background: url(../images/kontor.jpg) no-repeat center/cover;
     position : relative;
-    max-height: 380px;
+    height: 380px;
     width: 100%;
     text-align: left;
-    /*font-size: 14pt;*/
+    
 
 }
 /*THEFIXUS*/
