@@ -94,6 +94,16 @@ main {
     flex: 1 0 auto;
     margin-top: 4rem;
 }
+/* Footer */
+.footer {
+    position: fixed; 
+    bottom: 0; 
+    width: 100%; 
+    background-color: #053b50;
+    color: #fff;
+    text-align: center;
+    
+}
 
 /*HERO*/
 .hero {
@@ -120,6 +130,7 @@ main {
 
 .staff-h2 {
     padding: 1rem 3rem;
+    font-display: center;
 }
 
 .staff-list {
@@ -146,10 +157,8 @@ main {
     font-size: 14pt;
 
 }
-/* Footer */
-/*.footer {
-    
-}*/
+
+
 #social-networks {
     text-align: center;
     padding: 20px 0;
