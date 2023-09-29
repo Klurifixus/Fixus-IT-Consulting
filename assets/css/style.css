@@ -135,6 +135,12 @@ form {
 .contact-button{
     display:flex;
     align-items: center;
+    padding: 1rem;
+    font-family: 'sans-serif';
+    background-color: #64ccc5;
+    color:#ffffff;
+    border-color: #ffffff;
+    border-radius: 50%;
 }
 /*HERO*/
 .hero {
