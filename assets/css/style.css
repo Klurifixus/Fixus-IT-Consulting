@@ -29,7 +29,8 @@ header {
     box-shadow: 0 2px 2px #fdfcfc;
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: center;
+    height: 4rem;
 }
 
 header a {
@@ -39,9 +40,12 @@ header a {
 
 h1 {
     font-family: 'Rubik Mono One', sans-serif;
-    text-transform: capitalize;
+    text-transform: uppercase;
     letter-spacing: 2px;
     color: #ffffff;
+    font-size: 16px;
+    
+    
 }
 
 #menu {
@@ -88,7 +92,7 @@ main {
     background-color: #176b87;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
-    margin-top: 47px;
+    margin-top: 4rem;
 }
 
 /* Footer */
