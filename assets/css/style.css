@@ -206,6 +206,17 @@ nav {
     text-align: left;
     
 }
+.staff-image {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 40%;
+    margin-left: 10px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+.staff-list-h3:hover .staff-image {
+    opacity: 1;
+}
 
 .staff-h2 {
     padding: 1rem 3rem;
