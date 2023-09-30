@@ -126,15 +126,66 @@ nav {
     height: 100%;
     color:#ffffff;
 }
+
 .index-info{
     flex-direction: column;
     background-color: #176b87;
     color: #fdfcfc;
     justify-content: center;
+    font-size: large;
 
 
 }
 
+.index-service{
+    background: url(../images/krakenimages-376KN_ISplE-unsplash.jpg) no-repeat center/cover;
+    position: relative;
+    height: 60vh;
+    width: 100%;
+    color:#053b50;
+
+}
+.index-service-text{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 2px #110303; 
+    padding: 1rem 1rem;
+    background-color: rgba(0, 0, 0, 0.5);  
+    height: 100%;
+    color:#ffffff;
+    font-size: x-small;
+    line-height: 1.2em;
+}
+
+.our-service{
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: medium;
+    padding-bottom: 1em;
+
+
+    
+}
+.index-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #053b50;
+    color: #ffffff;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.index-button:hover {
+    background-color: #176b87;
+}
+.space-service{
+    padding-top: 1em;
+}
 
 /*_________________*/
 /* ABOUT.HTML  */
