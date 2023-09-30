@@ -9,7 +9,10 @@
     box-sizing: border-box;
 }
 
-/* General styles */
+/*_________________*/
+/* GENERAL STYLES  */
+/*_________________*/
+
 body {
     height: 100vh;
     display: flex;
@@ -19,7 +22,19 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-/* Header */
+/* Main content */
+main {
+    background-color: #176b87;
+    /* Make main element take up any surplus space to push footer down */
+    flex: 1 0 auto;
+    margin-top: 4rem;
+    height: 100vh;
+}
+
+/*_________________*/
+/* HEADER  */
+/*_________________*/
+
 header {
     background-color: #053b50;
     padding: 0 1rem;
@@ -38,37 +53,12 @@ header a {
     color: inherit;
 }
 
-h1 {
+#logo {
     font-family: 'Rubik Mono One', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #ffffff;
     font-size: 16px;
-    
-    
-}
-.h1-about {
-    font-family: 'Montserrat', sans-serif;
-    text-transform: capitalize;
-    letter-spacing: 0.2rem;
-    color:#ffffff;
-    font-size: 36px;
-
-    
-}
-.h1-contact{
-    font-family: 'Montserrat', sans-serif;
-    text-transform: capitalize;
-    letter-spacing: 0.2rem;
-    color:#ffffff;
-    font-size: 20px;
-    display:flex
-    
-
-
-}
-.contact-margin-bottom{
-    margin-bottom: 2rem;
 }
 
 #menu {
@@ -110,33 +100,105 @@ nav {
     font-size: 2rem;
 }
 
-/* Main content */
-main {
-    background-color: #176b87;
-    /* Make main element take up any surplus space to push footer down */
-    flex: 1 0 auto;
-    margin-top: 4rem;
+/*_________________*/
+/* INDEX:HTML  */
+/*_________________*/
+
+/*HERO*/
+.hero {
+    background: url(../images/office.jpg) no-repeat center/cover;
+    position: relative;
     height: 100vh;
+    width: 100%;
+    color:#053b50;
 }
-/* Footer */
-.footer {
-    position: fixed; 
-    bottom: 0; 
-    width: 100%; 
-    background-color: #053b50;
-    color: #fff;
-    text-align: center;
+
+/*_________________*/
+/* ABOUT.HTML  */
+/*_________________*/
+
+.h1-about {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 0.2rem;
+    color:#ffffff;
+    font-size: 36px; 
+}
+
+.staff {
+    background: url(../images/kontor.jpg) no-repeat center/cover;
+    position : relative;
+    height: 100vh;
+    width: 100%;
+    text-align: left;
     
 }
-form {
+
+.staff-h2 {
+    padding: 1rem 3rem;
+    font-display: center;
+}
+
+.staff-list {
+    padding: 2rem 5rem;
+}
+
+/* List in staff */
+.staff-list-h3 {
+    margin-bottom: 0.7rem;
+}
+
+.thefixus {
+    
+    justify-content: space-between; 
+}
+
+/*_________________*/
+/* CONTACT.HTML  */
+/*_________________*/
+
+.trouble-img {
+    background: url(../images/trouble.jpg) no-repeat center/cover;
+    position : relative;
+    height: 100vh;
+    width: 100%;
+
+}
+
+.trouble {    
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    text-align: left;
+    font-size: 14pt;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.h1-contact{
+    font-family: 'Montserrat', sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 0.2rem;
+    color:#ffffff;
+    font-size: 20px;
+    display:flex
+}
+
+.thanks-form {
     margin-top: 13rem;
     width: 90%;
     max-width: 600px;
 }
+
 .contact-form{
     margin-bottom: 30px;
-
 }
+
+.contact-label{
+    text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.7)
+}
+
 .contact-input {
     width: 100%;
     padding: 8px;
@@ -166,76 +228,46 @@ form {
     color:#ffffff;
     width: 100%;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
-    
-    
-}
-.contact-label{
-    text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.7)
-}
-/*HERO*/
-.hero {
-    background: url(../images/office.jpg) no-repeat center/cover;
-    position: relative;
-    height: 100vh;
-    width: 100%;
-    color:#053b50;
-
-    
-    
-
-
-}
-/*STAFF*/
-
-.staff {
-    background: url(../images/kontor.jpg) no-repeat center/cover;
-    position : relative;
-    height: 100vh;
-    width: 100%;
-    text-align: left;
-    
 }
 
-.staff-h2 {
-    padding: 1rem 3rem;
-    font-display: center;
-}
+/*_________________*/
+/* THANKS PAGE  */
+/*_________________*/
 
-.staff-list {
-    padding: 2rem 5rem;
-}
-
-/* List in staff */
-.staff-list-h3 {
-    margin-bottom: 0.7rem;
-}
-
-
-/*THEFIXUS*/
-.thefixus {
-    
-    justify-content: space-between; 
-}
-.trouble-img {
-    background: url(../images/trouble.jpg) no-repeat center/cover;
-    position : relative;
-    height: 100vh;
-    width: 100%;
-
-}
-.trouble {
-    
-    position: relative;
-    height: 100vh;
-    width: 100%;
-    text-align: left;
-    font-size: 14pt;
-    display: flex;
+.thanks {
+    background: url(../images/thanks.jpg)no-repeat center/cover;
+    display:flex;
     align-items: center;
-    justify-content: center;
-
+    padding: 5rem;
+    padding-top: 20rem;
+    max-height: 700px;
+    width: 70%;
+    text-shadow: 8px 8px 8px rgba(0, 0, 0, 0.9)
 }
 
+
+
+.thanks-h1 {
+    font-family: 'Rubik Mono One', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+
+/*_________________*/
+/* FOOTER  */
+/*_________________*/
+.footer {
+    position: fixed; 
+    bottom: 0; 
+    width: 100%; 
+    background-color: #053b50;
+    color: #fff;
+    text-align: center;
+    
+}
 
 #social-networks {
     text-align: center;
@@ -252,17 +284,7 @@ form {
     color: #64ccc5;
 }
 
-/*THANKS PAGE*/
-.thanks {
-    background: url(../images/thanks.jpg)no-repeat center/cover;
-    display:flex;
-    align-items: center;
-    padding: 5rem;
-    padding-top: 20rem;
-    max-height: 700px;
-    width: 70%;
-    text-shadow: 8px 8px 8px rgba(0, 0, 0, 0.9)
-}
+
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* Header */
