@@ -29,6 +29,7 @@ main {
     flex: 1 0 auto;
     margin-top: 4rem;
     height: 100vh;
+    margin-bottom: 4rem;
 }
 
 /*_________________*/
@@ -108,7 +109,7 @@ nav {
 .hero {
     background: url(../images/office.jpg) no-repeat center/cover;
     position: relative;
-    height: 100vh;
+    height: 60vh;
     width: 100%;
     color:#053b50;
 }
@@ -119,10 +120,16 @@ nav {
     justify-content: center;
     align-items: center;
     text-shadow: 2px #110303; 
-    margin-top: 16rem;
-    background-color: rgba(0, 0, 0, 0.5);
-     
-    
+    padding: 1rem 1rem;
+    background-color: rgba(0, 0, 0, 0.5);  
+    height: 100%;
+    color:#ffffff;
+}
+.index-info{
+    background-color: #176b87;
+    color: #fdfcfc;
+
+
 }
 
 
