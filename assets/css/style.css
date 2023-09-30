@@ -11,7 +11,7 @@
 
 /* General styles */
 body {
-    min-height: 100vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     /* Generic project styles */
@@ -55,6 +55,16 @@ h1 {
     font-size: 36px;
 
     
+}
+.h1-contact{
+    font-family: 'Montserrat', sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 0.2rem;
+    color:#ffffff;
+    font-size: 20px;
+    display:flex
+
+
 }
 
 #menu {
@@ -102,6 +112,7 @@ main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 4rem;
+    height: 100vh;
 }
 /* Footer */
 .footer {
@@ -114,7 +125,7 @@ main {
     
 }
 form {
-    margin-top: 26rem;
+    margin-top: 13rem;
     width: 90%;
     max-width: 600px;
 }
@@ -160,7 +171,7 @@ form {
 .hero {
     background: url(../images/office.jpg) no-repeat center/cover;
     position: relative;
-    height: 380px;
+    height: 100vh;
     width: 100%;
     color:#053b50;
 
@@ -174,7 +185,7 @@ form {
 .staff {
     background: url(../images/kontor.jpg) no-repeat center/cover;
     position : relative;
-    height: 380px;
+    height: 100vh;
     width: 100%;
     text-align: left;
     
@@ -200,8 +211,15 @@ form {
     
     justify-content: space-between; 
 }
-.trouble {
+.trouble-img {
     background: url(../images/trouble.jpg) no-repeat center/cover;
+    position : relative;
+    height: 100vh;
+    width: 100%;
+
+}
+.trouble {
+    
     position : relative;
     height: 380px;
     width: 100%;
