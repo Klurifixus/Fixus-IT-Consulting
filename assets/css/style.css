@@ -28,8 +28,9 @@ main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 4rem;
-    height: 100vh;
+    margin-top: 4rem;
     margin-bottom: 4rem;
+    padding-bottom: 4rem;
 }
 
 /*_________________*/
@@ -126,8 +127,10 @@ nav {
     color:#ffffff;
 }
 .index-info{
+    flex-direction: column;
     background-color: #176b87;
     color: #fdfcfc;
+    justify-content: center;
 
 
 }
