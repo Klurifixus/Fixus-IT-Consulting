@@ -207,8 +207,8 @@ nav {
     
 }
 .staff-image {
-    width: 3rem;
-    height: 3rem;
+    width: 4rem;
+    height: 4rem;
     border-radius: 40%;
     margin-left: 10px;
     opacity: 0;
@@ -224,14 +224,22 @@ nav {
 }
 
 .staff-list {
-    padding: 2rem 5rem;
+    padding: 2rem 1rem;
 }
 
 /* List in staff */
 .staff-list-h3 {
     margin-bottom: 0.7rem;
+    
 }
+.staff-list-p{
+    font-size: small;
 
+}
+.staff-list-p1{
+    font-size: x-small;
+
+}
 .thefixus {
     
     justify-content: space-between; 
@@ -261,6 +269,8 @@ nav {
 }
 
 .h1-contact{
+    display:flex;
+    flex-direction: column;
     font-family: 'Montserrat', sans-serif;
     text-transform: capitalize;
     letter-spacing: 0.2rem;
@@ -270,7 +280,7 @@ nav {
 }
 
 .thanks-form {
-    margin-top: 13rem;
+    margin-top: 3rem;
     width: 90%;
     max-width: 600px;
 }
@@ -312,6 +322,7 @@ nav {
     color:#ffffff;
     width: 100%;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
+
 }
 
 /*_________________*/
