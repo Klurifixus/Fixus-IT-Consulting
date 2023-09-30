@@ -101,7 +101,7 @@ nav {
 }
 
 /*_________________*/
-/* INDEX:HTML  */
+/* INDEX.HTML  */
 /*_________________*/
 
 /*HERO*/
@@ -112,6 +112,19 @@ nav {
     width: 100%;
     color:#053b50;
 }
+
+.hero-text{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 2px #110303; 
+    margin-top: 16rem;
+    background-color: rgba(0, 0, 0, 0.5);
+     
+    
+}
+
 
 /*_________________*/
 /* ABOUT.HTML  */
