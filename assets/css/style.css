@@ -200,8 +200,8 @@ nav {
 
 .staff {
     position : relative;
-    height: 100vh;
-    width: 100%;
+    height: auto;
+    width: auto;
     text-align: left;
     
 }
@@ -223,7 +223,7 @@ nav {
 }
 
 .staff-list {
-    padding: 0rem 1rem;
+    padding: 2rem 1rem;
 }
 
 /* List in staff */
