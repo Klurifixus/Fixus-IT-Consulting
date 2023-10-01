@@ -356,6 +356,11 @@ nav {
     font-size: 16px;
 }
 
+#closebutton {
+    width: 40%;
+    height: 2rem;
+
+}
 
 /*_________________*/
 /* FOOTER  */
