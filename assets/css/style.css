@@ -182,28 +182,19 @@ nav {
 /* ABOUT.HTML  */
 /*_________________*/
 
-.h1-about {
-    font-family: 'Montserrat', sans-serif;
-    text-transform: capitalize;
-    letter-spacing: 0.2rem;
-    color:#ffffff;
-    font-size: 36px; 
-}
-
 .staff { 
-    
+    display: contents;
     position : relative; 
     height: 100vh;
     width: 100%;
     text-align: left;
-    background: url(../images/kaleb-tapp-J59wWPn09BE-unsplash.jpg);
     
 }
 .staff-image {
     width: 5rem;
     height: 5rem;
     border-radius: 15%;
-    margin-left: 10px;
+    margin-left: 4rem;
     opacity: 0;
     transition: opacity 0.3s;
 }
@@ -218,7 +209,7 @@ nav {
 
 .staff-list {
     padding: 0rem 1rem;
-    margin-bottom: 5rem;
+    margin-bottom: 2rem;
 }
 
 /* List in staff */
@@ -238,7 +229,9 @@ nav {
     
     justify-content: space-between; 
 }
-
+.staff-list-top{
+    margin-top: 8rem;
+}
 
 
 /*_________________*/
