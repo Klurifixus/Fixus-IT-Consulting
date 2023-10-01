@@ -176,6 +176,7 @@ nav {
 }
 .space-service{
     padding-top: 1rem;
+    font-size: small;
 }
 
 /*_________________*/
@@ -419,6 +420,19 @@ nav {
     .thanks-form {
         margin-top: 20vh;
     }
+    .our-service{
+        font-size: large;
+    }
+    .space-service{
+        font-size: medium;
+    }
+    .index-service-text{
+        font-size: small;
+    }
+    .hero-text{
+        font-size: x-large;
+    }
+    
 }
  
 
@@ -433,5 +447,16 @@ nav {
     .index-info{
         padding-right: 1rem;
     }
-    
+    .our-service{
+        font-size: larger;
+    }
+    .space-service{
+        font-size: large;
+    }
+    .index-service-text{
+        font-size: medium;
+    }
+    .hero-text{
+        font-size: xx-large;
+    }
 }
