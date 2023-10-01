@@ -28,9 +28,8 @@ main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 4rem;
-    margin-top: 4rem;
     margin-bottom: 4rem;
-    padding-bottom: 4rem;
+    padding-bottom: 1rem;
 }
 
 /*_________________*/
@@ -224,7 +223,7 @@ nav {
 }
 
 .staff-list {
-    padding: 2rem 1rem;
+    padding: 0rem 1rem;
 }
 
 /* List in staff */
@@ -265,7 +264,7 @@ nav {
     text-align: left;
     font-size: 14pt;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
 }
 
@@ -286,7 +285,7 @@ nav {
 
 }
 .thanks-form {
-    margin-top: 4px;
+    margin-top: 1.2rem;
     width: 90%;
     max-width: 600px;
 }
