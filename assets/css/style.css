@@ -393,11 +393,13 @@ nav {
 /* Header */
     nav {
         display: flex;
-        position: relative;
+        flex-direction: column;
+        align-items: center;
         box-shadow: none;
-        width: 100%;
         padding-right: 1rem;
     } 
+
+
     header{
         height: 7rem;
         
@@ -405,10 +407,12 @@ nav {
     }
 
     #menu {
+        
         display: flex;
+
         list-style: none;
-        width: 100%;
-        gap: 2rem;
+      
+        gap: 2rem; 
     }
 
     #menu > li {
@@ -431,10 +435,13 @@ nav {
 
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
+
+
+
+
       
     .index-info{
         padding-right: 1rem;
     }
     
-}
 }
