@@ -20,6 +20,7 @@ body {
     /* Generic project styles */
     color: #ffffff;
     font-family: 'Montserrat', sans-serif;
+    background:#053b50;
 }
 
 
@@ -192,8 +193,8 @@ nav {
 .staff { 
     
     position : relative; 
-    height: auto;
-    width: auto;
+    height: 100vh;
+    width: 100%;
     text-align: left;
     background: url(../images/kaleb-tapp-J59wWPn09BE-unsplash.jpg);
     
@@ -238,9 +239,7 @@ nav {
     justify-content: space-between; 
 }
 
-.ul-about{
-    margin-top: 4rem;
-}
+
 
 /*_________________*/
 /* CONTACT.HTML  */
