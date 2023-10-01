@@ -402,16 +402,11 @@ nav {
 
     header{
         height: 7rem;
-        
-        
     }
 
-    #menu {
-        
+    #menu { 
         display: flex;
-
         list-style: none;
-      
         gap: 2rem; 
     }
 
@@ -427,8 +422,10 @@ nav {
         font-size: 120%;
         margin: 0 0.5rem;
     }
-   /* Main content */
-
+   
+    .thanks-form {
+        margin-top: 20vh;
+    }
 }
  
 
