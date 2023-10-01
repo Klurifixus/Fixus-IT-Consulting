@@ -22,15 +22,6 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-/* Main content */
-main {
-    background-color: #176b87;
-    /* Make main element take up any surplus space to push footer down */
-    flex: 1 0 auto;
-    margin-top: 4rem;
-    margin-bottom: 4rem;
-    padding-bottom: 1rem;
-}
 
 /*_________________*/
 /* HEADER  */
@@ -198,8 +189,9 @@ nav {
     font-size: 36px; 
 }
 
-.staff {
-    position : relative;
+.staff { 
+    
+    position : relative; 
     height: auto;
     width: auto;
     text-align: left;
@@ -207,9 +199,9 @@ nav {
     
 }
 .staff-image {
-    width: 4rem;
-    height: 4rem;
-    border-radius: 40%;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 15%;
     margin-left: 10px;
     opacity: 0;
     transition: opacity 0.3s;
@@ -230,7 +222,7 @@ nav {
 
 /* List in staff */
 .staff-list-h3 {
-    margin-bottom: 0.7rem;
+    margin-bottom: 10px;
     
 }
 .staff-list-p{
@@ -246,6 +238,10 @@ nav {
     justify-content: space-between; 
 }
 
+.ul-about{
+    margin-top: 4rem;
+}
+
 /*_________________*/
 /* CONTACT.HTML  */
 /*_________________*/
@@ -253,9 +249,9 @@ nav {
 .trouble-img {
     background: url(../images/trouble.jpg) no-repeat center/cover;
     position : relative;
-    height: 100vh;
+    height: 100%;
     width: 100%;
-    margin-top: 2px;
+    
 
 }
 
@@ -268,6 +264,7 @@ nav {
     display: flex;
     align-items: flex-start;
     justify-content: center;
+    margin-top: 4rem;
 }
 
 .h1-contact{
@@ -287,7 +284,7 @@ nav {
 
 }
 .thanks-form {
-    margin-top: 1.2rem;
+    margin-top: 3rem;
     width: 90%;
     max-width: 600px;
 }
@@ -394,7 +391,7 @@ nav {
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
-    /* Header */
+/* Header */
     nav {
         display: flex;
         position: relative;
@@ -402,6 +399,11 @@ nav {
         width: 100%;
         padding-right: 1rem;
     } 
+    header{
+        height: 7rem;
+        
+        
+    }
 
     #menu {
         display: flex;
@@ -422,24 +424,20 @@ nav {
         font-size: 120%;
         margin: 0 0.5rem;
     }
-
-    /* Main content */
-    main {
-        /* Push main content down to accommodate larger header */
-        margin-top: 79px;
-    }
+   /* Main content */
+   main {
+    /* Push main content down to accommodate larger header */
+    margin-top: 7rem;
 }
+ 
+
 
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
-    
-    header{
-        height: 7rem;
-        
-        
-    }
+      
     .index-info{
         padding-right: 1rem;
     }
     
+}
 }
