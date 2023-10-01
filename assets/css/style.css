@@ -118,36 +118,24 @@ nav {
     color:#ffffff;
 }
 
-.index-info{
-    flex-direction: column;
-    background-color: #176b87;
-    color: #fdfcfc;
-    justify-content: center;
-    font-size: large;
-
-
-}
-
 .index-service{
     background: url(../images/krakenimages-376KN_ISplE-unsplash.jpg) no-repeat center/cover;
     position: relative;
     height: 60vh;
-    width: 100%;
+    max-width: 100%;
     color:#053b50;
 
 }
 .index-service-text{
-    display:flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-shadow: 2px #110303; 
-    padding: 1rem 1rem;
-    background-color: rgba(0, 0, 0, 0.5);  
-    height: 100%;
-    color:#ffffff;
-    font-size: x-small;
-    line-height: 1.2em;
+padding: 45rem;
+max-width: 100rem;
+margin: 0 auto;
+}
+
+.index-div{
+    display: flex;
+    margin: -1 -1;
+
 }
 
 .our-service{
