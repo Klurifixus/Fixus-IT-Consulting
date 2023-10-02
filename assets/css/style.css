@@ -263,7 +263,14 @@ nav {
 .the-end-of-page{
     margin-bottom: 6rem;
 }
+.video-box-contact{
+    height: 100%;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
 
+}
 /*_________________*/
 /* THANKS PAGE  */
 /*_________________*/
