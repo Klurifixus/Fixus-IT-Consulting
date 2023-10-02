@@ -1,36 +1,92 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <!-- Meta tags for search engines -->
-        <meta name="description"
-            content="Welcome to Fixus IT Consulting - Your Technology Solutions Partner">
-        <meta name="keywords" content="Fixus IT Consulting, technology solutions, IT services, consulting">
-        <!-- Title -->
-        <title>Fixus IT Consulting</title>
-        <!-- Favicon -->
-        <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
-        <!-- Stylesheet -->
-        <link rel="stylesheet" href="assets/css/style.css">
-    </head>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Meta tags for search engines -->
+    <meta name="description"
+        content="Welcome to Fixus IT Consulting - Your Technology Solutions Partner">
+    <meta name="keywords" content="Fixus IT Consulting, technology solutions, IT services, consulting">
+    <!-- Title -->
+    <title>Fixus IT Consulting</title>
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
 <body>
+    <!-- Header -->
+    <header>
+        <a href="index.html">
+            <h1 id="logo">Fixus IT Consulting</h1>
+        </a>
+        <input type="checkbox" id="nav-toggle" name="nav-toggle">
+        <label for="nav-toggle" class="nav-toggle-label">
+            <i class="fa-solid fa-bars"></i>
+        </label>
+        <nav>
+            <ul id="menu">
+                <li><a href="index.html" class="active">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
     <div class="video-box">
         <video controls autoplay>
             <source src="./assets/video/atoms_-_13232 (540p).mp4" type="video/mp4">
             
         </video>
     </div>
-    <button id="closebutton">We will contact you! Click to  go back to</button>
+   
 
+  
+</section>
+
+<main>
+    <button id="closebutton">We will contact you! Click to  go back to</button>
     <script>
         // Function to close the window when the button is clicked
         document.getElementById('closebutton').addEventListener('click', function () {
             window.close();
         });
     </script>
+</main>
+ <!-- Footer -->
+ <footer class="footer">
+    <ul id="social-networks">
+        <li>
+            <a href="https://www.facebook.com/" target="_blank" rel="noopener"
+                aria-label="Visit our Facebook page (opens in a new tab)">
+                <i class="fa-brands fa-facebook"></i></a>
+        </li>
+        <li>
+            <a href="https://www.twitter.com/" target="_blank" rel="noopener"
+                aria-label="Visit our Twitter page (opens in a new tab)">
+                <i class="fa-brands fa-twitter-square"></i></a>
+        </li>
+        <li>
+            <a href="https://www.youtube.com/" target="_blank" rel="noopener"
+                aria-label="Visit our YouTube page (opens in a new tab)">
+                <i class="fa-brands fa-youtube-square"></i></a>
+        </li>
+        <li>
+            <a href="https://www.instagram.com/" target="_blank" rel="noopener"
+                aria-label="Visit our Instagram page (opens in a new tab)">
+                <i class="fa-brands fa-instagram"></i></a>
+        </li>
+    </ul>
+</footer>
+
+<!-- Font Awesome kit -->
+<script src="https://kit.fontawesome.com/3b20d96fa9.js" crossorigin="anonymous"></script>
+
+
 </body>
 </html>

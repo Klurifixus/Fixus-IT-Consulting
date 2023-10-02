@@ -177,9 +177,9 @@ nav {
 /*_________________*/
 
 .trouble-img {
-    background: url(../images/trouble.jpg) no-repeat center/cover;
+    background: #053b50;
     position : relative;
-    height: 100vh;
+    height: 660px;
     width: 100%;
     
 
@@ -194,7 +194,8 @@ nav {
     display: flex;
     align-items: flex-start;
     justify-content: center;
-   margin-top: auto;
+    margin-top: auto;
+    cursor: pointer;
 }
 
 .h1-contact{
@@ -265,7 +266,7 @@ nav {
 .video-box {
     width: 100%;
     margin: 0 auto;
-    text-align: center;
+    margin-bottom: 10rem;
 }
 
 video {
@@ -334,7 +335,7 @@ video {
     #menu { 
         display: flex;
         list-style: none;
-        gap: 2rem; 
+        gap: 1rem; 
     }
 
     #menu > li {
