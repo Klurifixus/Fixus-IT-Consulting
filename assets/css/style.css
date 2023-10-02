@@ -136,8 +136,10 @@ nav {
     width: 16rem;
     
 }
-
-
+.fixus-hero{
+    margin-bottom: 4rem;
+    
+}
 
 
 /*_________________*/
@@ -403,8 +405,8 @@ video {
         size-adjust: auto;
         margin-top: 12rem;
     }
-
-    }
+}
+    
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
 
