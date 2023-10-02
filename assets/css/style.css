@@ -100,8 +100,7 @@ nav {
 /*_________________*/
 
 
-.fixus-box{ 
-    height: 1rem; 
+.fixus-box{  
     width: 100%;
 }
 
@@ -140,7 +139,9 @@ nav {
     margin-bottom: 4rem;
     
 }
-
+.fixus-lastbox{
+    padding-bottom: 6rem;
+}
 
 /*_________________*/
 /* ABOUT.HTML  */
@@ -151,10 +152,7 @@ nav {
     position : relative; 
     height: 800px;
     width: 450px;
-    text-align: auto;
-    
-    
-    
+    text-align: auto;    
 }
 .staff-image {
     width: 5rem;
@@ -422,7 +420,6 @@ video {
 .hero{
     max-width: 130rem;
     margin: 0 auto;
-    padding: 0 32rem;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 4.6rem;
@@ -452,5 +449,8 @@ video {
     .staff{
         align-items: center;
         }
+    .fixus-title-sect{
+        margin-top: 2rem;
+    }
 }
 
