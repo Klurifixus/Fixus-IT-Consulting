@@ -122,7 +122,16 @@ nav {
     line-height: 1rem;
     text-align: left;
 }
-
+.fixus-title-sect{
+    margin: 6rem 1rem 1rem 1rem;
+}
+.fixus-title{
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin-bottom: 0;
+    padding-bottom: 0.5em;
+    font-size: 2rem;
+}
 
 
 
