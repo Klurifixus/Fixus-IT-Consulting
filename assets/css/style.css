@@ -190,7 +190,6 @@ nav {
 
 .trouble {    
     position: relative;
-    height: 100vh;
     width: 100%;
     text-align: left;
     font-size: 14pt;
@@ -266,12 +265,18 @@ nav {
     margin-bottom: 6rem;
 }
 .video-box-contact{
-    height: 100%;
-            margin: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
+    margin-top: 1rem;
+    width: 90%;
+    max-width: 600px;
+    position:relative;
 
+}
+.video-box-contact-section{
+    margin-inline-start: 1rem;
+    margin-bottom: 4rem;
+    
+    
+    
 }
 /*_________________*/
 /* THANKS PAGE  */
