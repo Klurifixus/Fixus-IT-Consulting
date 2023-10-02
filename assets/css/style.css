@@ -262,33 +262,26 @@ nav {
 /*_________________*/
 /* THANKS PAGE  */
 /*_________________*/
-
-.thanks {
-    background: url(../images/thanks.jpg)no-repeat center/cover;
-    display:flex;
-    align-items: center;
-    padding: 5rem;
-    padding-top: 20rem;
-    max-height: 700px;
-    width: 70%;
-    text-shadow: 8px 8px 8px rgba(0, 0, 0, 0.9)
+.video-container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
 }
 
-
-
-.thanks-h1 {
-    font-family: 'Rubik Mono One', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: #ffffff;
-    font-size: 16px;
+video {
+    width: 100%;
+    max-width: 100%;
 }
+
 
 #closebutton {
     width: 40%;
     height: 2rem;
-
+    justify-content: center; 
+    align-items: center;
+    position:fixed
 }
+
 
 /*_________________*/
 /* FOOTER  */
