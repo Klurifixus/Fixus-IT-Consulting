@@ -132,6 +132,10 @@ nav {
     padding-bottom: 0.5em;
     font-size: 2rem;
 }
+.fixus-img-help{
+    width: 16rem;
+    
+}
 
 
 
@@ -141,12 +145,12 @@ nav {
 /*_________________*/
 
 .staff { 
-    display: contents;
+    display:contents;
     position : relative; 
     height: 800px;
     width: 450px;
     text-align: auto;
-    border:solid 1px #ffffff;
+    
     
     
 }
@@ -381,9 +385,17 @@ video {
         flex-direction:row;
         padding: 1rem 1rem;
         margin-bottom: 4rem;
+        list-style: none;
     }
     .staff {
-        flex-direction: row;
+        width:50%;
+        margin:auto;
+        display:block;
+    }
+    .fixus-hero{
+        
+    }
+
     }
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
@@ -423,5 +435,8 @@ video {
     .hero-text{
         font-size: xx-large;
     }
+    .staff{
+        align-items: center;
+        }
 }
-}
+
