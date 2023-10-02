@@ -143,8 +143,8 @@ nav {
 .staff { 
     display: contents;
     position : relative; 
-    height: 100vh;
-    width: 100%;
+    height: 800px;
+    width: 450px;
     text-align: auto;
     border:solid 1px #ffffff;
     
@@ -155,12 +155,9 @@ nav {
     height: 5rem;
     border-radius: 15%;
     margin-left: 4rem;
-    opacity: 0;
     transition: opacity 0.3s;
 }
-.staff-list-h3:hover .staff-image {
-    opacity: 1;
-}
+
 
 .staff-list {
     padding: 0rem 1rem;
@@ -259,6 +256,9 @@ nav {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
 
 }
+.the-end-of-page{
+    margin-bottom: 6rem;
+}
 
 /*_________________*/
 /* THANKS PAGE  */
@@ -266,7 +266,7 @@ nav {
 .video-box {
     width: 100%;
     margin: 0 auto;
-    margin-bottom: 10rem;
+    margin-bottom: 1rem;
 }
 
 video {
@@ -375,14 +375,16 @@ video {
         height: 10rem;
         border-radius: 15%;
         margin-left: 4rem;
-        opacity: 0;
         transition: opacity 0.3s;
     }
     .staff-list {
-        padding: 0rem 1rem;
+        flex-direction:row;
+        padding: 1rem 1rem;
         margin-bottom: 4rem;
     }
-
+    .staff {
+        flex-direction: row;
+    }
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
 
