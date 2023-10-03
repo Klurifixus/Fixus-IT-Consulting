@@ -1,10 +1,6 @@
-#
-
-!Fixus It Consulting
-
-Welcome to Fixus IT Consulting, your trusted partner for IT solutions and consulting services. This README.md file provides an overview of our company and what we aim to accomplish.
+Welcome to Fixus IT Consulting, your trusted partner for IT solutions and consulting services. This README.md file provides an overview of our company and what we aim to accomplish. (THIS IS A SCHOOL-PROJECT, FOR EDUCATIONAL PURPOSES).
 ## About Us
-Fixus IT Consulting specializes in maintaining, developing, and securing IT systems for both businesses and individuals. Our mission is to provide top-notch IT services that empower our clients to thrive in the digital age.
+- Fixus IT Consulting specializes in maintaining, developing, and securing IT systems for both businesses and individuals. Our mission is to provide top-notch IT   services that empower our clients to thrive in the digital age
 ## Target Audience
 Our services are designed to cater to a diverse range of clients, including:
 - Businesses of all sizes, from startups to established enterprises.
@@ -59,22 +55,116 @@ The wireframes for desktop, tablet and mobile have been created in Balsamiq soft
 * Primary Font for Body and headings: "Montserrat" This font gives a modern and ensured readability.
 * The combo of Rubic Mono for the logo and Montserrat for the body and headings strikes the wanted balance between uniqueness in branding and readability.
 * The font safecard for readability we used is "Sans Serif" that has an smooth look, and well-know for working on all platforms.
-
 # Features #
-Below are som fetures the site currently have, and also some features which may be added in the future.
+Below are some features the site currently offers, as well as potential features that might be added in the future:
+* This webpage is designed for users searching for an IT consulting firm on Google. While this page doesn't have a physical address, you can contact us through the "Contact" section located in the navbar menu. If you're using a tablet or a larger screen, you can also reach us through the links. You will consistently find these options in the header.
+* When you contact us, you'll be directed to a 'thank you' page. If activated, a video will play depicting a fictional journey of how the mail travels through space directly to us. You can only access this page if you've completed all the required information in the form." 
+* You can find the information about the standard staff in the navbar or through the links located in the header, similar to the homepage and contact sections.
+* The social media links are located in a fixed footer at the bottom of the page. Clicking on any of these links will direct you to the respective social media homepage. Currently, there are no direct links to our specific social media profiles because we haven't created them yet. Nevertheless, these links will open in a new window.
+* The Font Awesome script provides icons for each social network we will support.
+* In the browser's search area, we've added a favicon featuring the "Fixus" icon. This addition ensures our page stands out and is easy to recognize.
+* In the future, when you visit our webpage, you'll land on the index.html page. There, you'll see our vibrant cartoon image and our three core principles: develop, maintain, and secure. As you scroll down, you'll encounter a carousel showcasing reviews from our previous customers. Following this, there will be a promotional text explaining how we can help turn your dreams into reality. Further down, photos of the Fixus team will be displayed, and eventually, an integrated Google Map will guide customers to our office, accompanied by other essential contact information.
+
+Upon selecting "About", you'll be taken to the About page. This section will feature photographs, foundational details, and individual 30-60 second video introductions from our standard staff members. If you wish to connect with any of them directly, their email addresses will be available in the descriptive text.
+
+Alternatively, you might prefer to input your details on the Connection page. This option will be highlighted in each staff video in the "About" section. Opting for the contact button will lead you to the current contact page, enhanced with a carousel of reviews from past clients who've benefited from our services in various ways. Once all fields are completed and meet the criteria for POST, you'll be redirected to a thank-you page. Here, a silent automated video illustrates a mail's celestial journey to us. After watching, you have the flexibility to return to any page or explore fresh content. However, the player will suggest you check out more of our videos on YouTube.
+
+Our primary step in implementing these features will involve adjusting the flexboxes to accommodate the new additions. 
+
+
 ## Existing Feautures ##
--__Navigation Bar__
--_Sticky Navigation Menu__
+_x_meta descriptions__
+_x_meta keywords__
+_x_linked stylesheet__
+-_x_Navigation Bar__
+__Sticky Navigation Menu__
 -__Hero Image__
--__Quick Info About Us__
--__About our Staff__
--__Images__
--__Form for contact__
--__Video__
--__Thanks.html__
--__Thanks Video__
--__The Footer__
+-_x_Quick Info About Us__
+-_x_About our Staff__
+-_x_Images__
+-_x_Form for contact__
+-_x_Thanks.html__
+-x__Thanks Video__
+-x__The Footer__
+_x_Social media__
+_x_Favicon__
+_x_font awesome icons__
 ### Possiblie Future Features ###
+__Index carusel for reviews__
+__Photo of fixus team on Index.html__
+__Embedded Google Map__ 
+__staff video precentation__
+__contact carusel for reviews__
+__created and correct links to our social media platform__
+__an set up server for contact form__
+__automated video of thanks page(i know you dont want that but i would like that effect when contactform is sent, and with no audio)__
+__Create a galley page where our staff gives you an peronal and proffesional inpression (custumers should know that we love what we do and puts pride in to it)__
+__Create page for well known partnes we work with today__
+
+## Steps to set up your Fixus IT Consultiong on your local machine ##
+-__Prerequisites:__
+*Install ore start your code editor on your computer. If you don´t got one we recommend installing a program like Visual Studio Code.
+*Install or start your modern (latest updated web browser), like Chrome, Mozilla or Firefox.
+-__Clone the repositor:y__
+*Navigate to the main page of the GitHub repository.
+*Click on the 'Code' button and copy the URL.
+*Open your terminal or command prompt.
+*Set the current working directory to the location where you want the cloned directory.
+*Type git clone, and then paste the URL you copied.
+*Press Enter to create your local clone.
+-__Open in Code Editor:__
+*Navigate to the cloned directory on your computer.
+*Open the project folder with Visual Studio Code or your preferred code editor.
+-__Preview the Website Locally:__
+*If you're using Visual Studio Code, you can use the 'Live Server' extension to preview the website. Install the extension if you haven’t done so.
+*Right-click on the index.html file and select 'Open with Live Server'. This will open up the website in your default browser.
+*Alternatively, simply double-click on the index.html file to view it in your default web browser.
+-__Make Necessary Changes:__
+*You can now make any changes or adjustments as required in the code editor.
+*Save your changes and refresh the browser to see the updates
+#Working whit git in Visual studios (VS Code)
+# Working with Git in Visual Studio Code (VS Code) #
+-__Prerequisites:__
+*Ensure Visual Studio Code is installed on your computer. If not, download it from Visual Studio Code's official website.
+*Ensure Git is installed. If not, get it from Git's official website.
+-__Open Visual Studio Code:__
+*Launch VS Code.
+*For a new project, select 'File' > 'New File'. For an existing project, select 'File' > 'Open Folder'.
+-__Initialize a Git Repository:__
+*Open the terminal in VS Code (via 'View' > 'Terminal').
+*Navigate to your project folder.
+*Type git init and press Enter to initialize a new Git repository.
+-__Committing Changes:__
+*After editing your project, open the terminal.
+*Type git add . and press Enter to stage all changes.
+*Type git commit -m "Your descriptive commit message here" and press Enter to commit your changes.
+-__Connecting to a Remote Repository:__
+*If you want to link a remote repository (e.g., on GitHub), first create it on the platform.
+*In the VS Code terminal, type git remote add origin [URL_OF_YOUR_REMOTE_REPOSITORY] and press Enter.
+*To push changes, type git push -u origin master.
+-__View Commit History:__
+*To see the commit history, type git log in the terminal. Press 'q' to exit the log view.
+-__Reverting to an Earlier Commit:__
+*If you want to erase changes and revert to a previous commit, first find the commit hash from git log.
+*Type git reset --hard [COMMIT_HASH] and press Enter. This will take your project back to the state of that commit.
+# Add Hero
+## License ##
+*Usage: The content of this project can be viewed, run locally, or used as a reference for educational purposes.
+*Modification: You may not alter, transform, or build upon this project for any commercial or public purposes without explicit permission.
+*Distribution: Redistribution of this project, in its original form or with modifications, is not allowed without prior consent.
+*Private Use: Private use, such as studying or personal reference, is allowed.
+*Liability: The creator(s) are not responsible for any harm or damage caused by the use or misuse of this project.
+*Warranty: This project is provided "as is" without any warranties or guarantees of any kind.
+-__Notable Mentions:__
+*The images used in this project are sourced from Unsplash and Pixabay.
+*The MP4 media file showcased on thanks.html is also attributed to the aforementioned sources.
+*It is imperative that users respect the terms and rights of these external platforms and ensure they adhere to their respective usage guidelines when leveraging any assets.
+*For any queries regarding the usage or distribution of this project's content, please reach out using the contact information provided in this documentation.
+
+
+
+
+
 # Testing
 -__Testing during Development__
 *__Testing Technologies__
@@ -88,11 +178,31 @@ I have contingously tested the site during the development phase using the follo
 -__Performance Testing__
 -__Other bug fixes__
 # Deployment
-# Languages
+# Languages=English
 # Media
+C:\Users\pirre\OneDrive\Skrivbord\Mina Filer\FixusConsultingIT\Fixus-IT-Consulting\assets\video\atoms_-_13232 (540p).mp4
 # Credits
 -__Content__
--__Thanks__
+
+
+
+## Credits and Thanks##
+*The Love Running Project: This project provided the foundational elements for the Home page, especially crucial components like the navbar and the footer, at a time when I was still navigating my way through the development process.
+*ChatGPT: This invaluable tool provided me with advice, code samples, explanations, and indispensable grammar corrections, acting as a consistent source of guidance throughout the development journey.
+*My Girlfriend: Her unwavering support, constructive feedback, and valuable recommendations were instrumental in shaping the project. Her belief in me served as motivation to push the boundaries of what I thought I could achieve.
+*Hurtig: I am deeply grateful for the insights provided by my friend Hurtig, whose expertise as a Cloud Architect brought a unique perspective, enriching the project and guiding me in areas where I needed the most direction.
+*David Calikes portfolio-project-one: Cumasc Gael for the basic structure of this readme file.
+*Pixabay for your free pictures and videos I've used.
+*Unsplash for the free pictures I've used.
+*Sundeep my mentor has explaind things to me so i easyer can understand och learned me more about the devtool in Chrome. This have saved me many hours.
+
+
+## A summary of what I have learned ##
+*I have learned the following: when I started, I didn't know much at all. This put me in a situation where I had to start over from the beginning with the website. Now, I understand how crucial and fundamentally important it is to start with a wireframe after deciding on the design of the site. I've also learned how difficult it is to summarize everything in a README at the end of the project. And believe me, I'm doing the best I can here. I've also gained a broader understanding of flexbox and the structure of HTML and CSS thanks to my mentor, Sandeep. If I had the time, I would start over and do everything right from the beginning. I've also learned to value the fact that all solutions are out there if you just ask for them. Patience and problem-solving have also been very developmental for me. If only time had been on my side, I would have preferred to redo this project to get the site fully completed according to my wishes of reatures. Spending time adjusting mistakes I made earlier has also been incredibly educational, and as I've said several times before, I just wish I had more time.
+
+
+## Contact information ##
+*pirrefixus@gmail.com
 
 
 
@@ -116,18 +226,6 @@ I have contingously tested the site during the development phase using the follo
 
 
 
-
-
-
-
-
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
-Welcome,
-
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
-
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
 
 ## Codeanywhere Reminders
 
