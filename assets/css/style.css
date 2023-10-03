@@ -143,6 +143,7 @@ nav {
     padding-bottom: 6rem;
 }
 
+
 /*_________________*/
 /* ABOUT.HTML  */
 /*_________________*/
@@ -180,8 +181,8 @@ nav {
 .trouble-img {
     background: #053b50;
     position : relative;
-    height: 660px;
     width: 100%;
+    height: 660px;
     
 
 }
@@ -257,28 +258,43 @@ nav {
     color:#ffffff;
     width: 100%;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
+    
 
 }
 .the-end-of-page{
     margin-bottom: 6rem;
 }
 .video-box-contact{
-    margin-top: 1rem;
+    margin: 1rem;
+    align-items: center;
     width: 90%;
     position:relative;
+    border: 1px solid #ffffff;
 
 }
+.video-box-contact{
+    margin: 1rem;
+    align-items: center;
+    width: 90%;
+    position:relative;
+    border: 1px solid #ffffff;
+}
 .video-box-contact-section{
-    margin-inline-start: 1rem;
-    margin-bottom: 4rem;
+    text-align: center;
+    margin-inline-start: 0;
+    margin-bottom: -3rem 2rem 5rem 1rem;
+    border-radius: 20%;
     
     
     
 }
+
+
 /*_________________*/
 /* THANKS PAGE  */
 /*_________________*/
 .video-box {
+    margin-top: 10rem;
     width: 100%;
     margin: 0 auto;
     margin-bottom: 1rem;
