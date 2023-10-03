@@ -263,6 +263,9 @@ nav {
 }
 .the-end-of-page{
     margin-bottom: 6rem;
+    align-items: center;
+    display:flex;
+   
 }
 .video-box-contact{
     margin: 1rem;
