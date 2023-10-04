@@ -462,5 +462,10 @@ video {
     .fixus-title-sect{
         margin-top: 2rem;
     }
-}
+    .hero-first-div{
+        margin: auto;
+        grid-template-columns: 1fr;
+    }
 
+
+}
