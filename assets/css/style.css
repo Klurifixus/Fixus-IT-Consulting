@@ -440,27 +440,20 @@ video {
         align-items: center;
         padding-top: 4rem;
     }
-
     .h4-contact{
         margin-top: 3rem;
     }
-
     .p-contact{
         max-width: 30rem;
         margin: 0 auto;
         line-height: 1.8rem;
     }
 }
-
-    
-/* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
-/*INDEX*/
 .fixus-hero{
     margin-top: 16rem;
     
 }
-
 .hero{
     margin: 0 auto;
     display: grid;
@@ -468,14 +461,12 @@ video {
     gap: 5.6rem;
     align-items: center;
 }
-
 .fixus-text-box{
     width: 100%;
     padding: 2rem;
     background-color: rgba(1, 1, 1, 0.5);
     margin: 1.2rem 0 1.2rem 0;
     box-shadow: 0 3px 4px rgba(0, 0, 0, 0.5);
-
 }
 .fixus-title-sect{
     margin-top: 0;
@@ -484,9 +475,6 @@ video {
     margin: 0 auto;
     grid-template-columns: 1fr;
 }
-
-
-
 .fixus-titel{
     font-family: 'sans-serif';
     display:flex;
@@ -512,20 +500,13 @@ video {
     line-height: 1.5rem;
     letter-spacing: 4px;
 }
-
-/**/
-      
-
 .our-service{
         font-size: larger;
     }
 .space-service{
         font-size: large;
     }
-
 .staff{
         align-items: center;
         }
-    
-
 }
