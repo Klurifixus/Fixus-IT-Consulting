@@ -465,12 +465,18 @@ video {
 
 .fixus-text-box{
     width: 100%;
+    padding: 2rem;
+    background-color: rgba(1, 1, 1, 0.5);
+    margin: 1.2rem 0 1.2rem 0;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.5);
+
 }
 .fixus-title-sect{
     margin-top: 2rem;
 }
 .hero-first-div{
     margin: auto;
+    grid-template-columns: 1fr;
     
 }
 .fixus-titel{
@@ -480,9 +486,22 @@ video {
     font-size: 3.8rem;
     font-weight: 600;
 }
-
-.hero-text{
-    font-size: xx-large;
+.fixus-text{
+    line-height: 1.7rem;
+    font-size: 1.2rem;
+}
+.fixus-p{
+    margin-top: 1rem;
+    line-height: 1.6rem;
+    font-size: 1.1rem;
+    text-align: left;
+}
+.fixus-h3{
+    text-transform: uppercase;
+    font-size: 1.6rem;
+    margin-bottom: 0;
+    line-height: 1.5rem;
+    letter-spacing: 4px;
 }
 
 /**/
