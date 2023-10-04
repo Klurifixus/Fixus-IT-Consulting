@@ -102,21 +102,11 @@ nav {
 /*_________________*/
 
 
-
-
-.fixus-text-box{
-    margin: 0.5rem;
-    padding: 1rem;
-    background-color: rgba(1, 1, 1, 0.5);
-    width: 100%;
-    margin: 0.5rem 0 0.5rem;
-    box-shadow: 0 3px 4px rgba(0,0,0,0.5);
-}
-
 .fixus-h3{
     text-transform: uppercase;
     letter-spacing: 4px;
     margin-bottom: 0;
+    font-size: 1.2rem;
 }
 
 .fixus-p{
@@ -130,12 +120,14 @@ nav {
     margin-top: 4.5rem;
 }
 .hero{
-    max-width: 69rem;
+    max-width: 75rem;
     display: grid;
     margin: 0 auto;
     grid-template-columns: 1fr;
     align-items: center;
     gap: 1,8rem;
+    align-items: center;
+    text-shadow: 0 3px 4px rgba(0, 0, 0, 0.3;
 }
 
 .fixus-title{
@@ -143,6 +135,7 @@ nav {
     letter-spacing: -1px;
     padding-bottom: 0.5em;
     font-size: 2rem;
+
 }
 .fixus-text{
     line-height: 1.4rem;
@@ -150,16 +143,27 @@ nav {
     text-shadow: 0 3px 4px rgba(0, 0, 0, 0.3);
 }
 .fixus-img-help{
-    width: 16rem;
+    width: 20rem;
     
+}
+.hero-img-box{
+    padding-top: 1rem;
+    text-align: center;
 }
 .fixus-hero{
     display:block;
-    margin-bottom: 4rem;
+    margin-bottom: 1rem 1rem 4rem 1rem;
     
 }
 
-
+.fixus-text-box{
+    margin: 0.5rem;
+    padding: 1rem;
+    background-color: rgba(1, 1, 1, 0.5);
+    width: 100%;
+    margin: 0.5rem 0 0.5rem;
+    box-shadow: 0 3px 4px rgba(0,0,0,0.5);
+}
 
 
 /*_________________*/
