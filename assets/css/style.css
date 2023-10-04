@@ -282,7 +282,8 @@ nav {
     line-height: 1.5rem;
     max-width: 30rem;
     margin: 0 auto;
-    margin-bottom: 4rem;
+    margin-bottom: 5rem;
+    margin-top: 1rem;
 }
 
 
@@ -294,6 +295,7 @@ nav {
     width: 100%;
     margin: 0 auto;
     margin-bottom: 1rem;
+    
 }
 
 video {
