@@ -137,10 +137,14 @@ nav {
 
 .fixus-title{
     text-transform: uppercase;
-    letter-spacing: 4px;
-    margin-bottom: 0;
+    letter-spacing: -1px;
     padding-bottom: 0.5em;
     font-size: 2rem;
+}
+.fixus-text{
+    line-height: 1.4rem;
+    font-size: 0.9rem;
+    text-shadow: 0 3px 4px rgba(0, 0, 0, 0.3);
 }
 .fixus-img-help{
     width: 16rem;
@@ -150,6 +154,13 @@ nav {
     display:block;
     margin-bottom: 4rem;
     
+}
+.fixus-p{
+    margin-top: 1rem;
+    line-height: 1rem;
+    text-align: left;
+    line-height: 1.4rem;
+    font-size: 0.9;
 }
 
 
