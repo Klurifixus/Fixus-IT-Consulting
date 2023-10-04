@@ -410,17 +410,17 @@ video {
     
     }
     /*Hero*/
-    .hero-text{
-        font-size: x-large;
+    .hero{
+        gap: 6rem;
     }
+    
     .hero-first-div{
         display: grid;
         gap: 1rem;
         grid-template-columns: 1fr 1fr;
     }
     .fixus-hero{
-        size-adjust: auto;
-        margin-top: 12rem;
+        margin: 12rem 4rem 8rem 4rem;
     }
     /*STAFF ABOUT*/
     .staff-image {
