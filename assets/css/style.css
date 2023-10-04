@@ -445,7 +445,15 @@ video {
         display:block;
     }
     
+    
+    .p-contact{
+        max-width: 37rem;
+        margin: 0 auto;
+        line-height: 1.7rem;
+    }
+
 }
+
     
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
