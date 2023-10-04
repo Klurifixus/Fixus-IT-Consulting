@@ -125,7 +125,7 @@ nav {
     margin: 0 auto;
     grid-template-columns: 1fr;
     align-items: center;
-    gap: 5rem;
+    gap: 1.8rem;
     align-items: center;
     text-shadow: 0 3px 4px rgba(0, 0, 0, 0.3);
 }
@@ -272,6 +272,7 @@ nav {
 
 .contact-text-sect{
     margin-top: 1.3rem;
+    margin-bottom: 5rem;
 }
 
 .h4-contact{
@@ -465,6 +466,7 @@ video {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 5.6rem;
+    align-items: center;
 }
 
 .fixus-text-box{
@@ -476,7 +478,7 @@ video {
 
 }
 .fixus-title-sect{
-    margin-top: 2rem;
+    margin-top: 0;
 }
 .hero-first-div{
     margin: 0 auto;
@@ -486,6 +488,7 @@ video {
 
 
 .fixus-titel{
+    font-family: 'sans-serif';
     display:flex;
     letter-spacing: -1px;
     padding-bottom: 1.5rem;
