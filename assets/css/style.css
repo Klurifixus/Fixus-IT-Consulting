@@ -215,18 +215,19 @@ nav {
 
 .h4-div{
     margin-top: 4rem;
-    font-size: 2rem;
+    font-size: 2rem;   
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
 
 .trouble {    
     display: flex;
+    align-items: center;
     font-size: 1rem;
     max-width: 130rem;
     margin: 0 auto;
-    align-items: center;
     justify-content: center;
     cursor: pointer;
 }
@@ -235,7 +236,7 @@ nav {
     align-items: center;
     justify-content: center;
     margin-top: 1.5rem;
-    max-width: 67rem;
+    max-width: 68rem;
 }
 
 .contact-form{
@@ -248,7 +249,7 @@ nav {
 }
 
 .contact-input {
-   
+   width: 100%;
     padding: 8px;
     outline: 0;
     border: 1px solid #ffffff;
