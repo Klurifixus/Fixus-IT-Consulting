@@ -126,6 +126,15 @@ nav {
 .fixus-title-sect{
     margin-top: 4.5rem;
 }
+.hero{
+    max-width: 69rem;
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: 1fr;
+    align-items: center;
+    gap: 1,8rem;
+}
+
 .fixus-title{
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -138,6 +147,7 @@ nav {
     
 }
 .fixus-hero{
+    display:block;
     margin-bottom: 4rem;
     
 }
