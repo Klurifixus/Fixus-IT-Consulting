@@ -210,7 +210,7 @@ nav {
 
 .trouble-img {
     background: #053B50;
-    padding: 1.8rem;
+    margin: 6rem 1rem 2rem 1rem;
 }
 
 .h4-div{
@@ -219,7 +219,6 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
 .trouble {    
@@ -248,28 +247,18 @@ nav {
     text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.7)
 }
 
-.contact-input {
+.contact-input, .contact-text {
    width: 100%;
-    padding: 8px;
-    outline: 0;
-    border: 1px solid #ffffff;
-    color: #ffffff;
-    font-size: 15px;
-    background: rgba(0, 0, 0, 0.5);
-}
-.contact-text {
-    width: 100%;
     padding: 8px;
     outline: 0;
     border: 1px solid #ffffff;
     color: #ffffff;
     font-size: 1rem;
     background: rgba(0, 0, 0, 0.5);
-    
 }
+
 .contact-button{ 
-    margin-top: 1rem;
-    margin-bottom: 3px;
+    margin-top: 1rem 0.3rem;
     padding: 1rem 1.5rem;
     font-family: 'sans-serif' 'Montserrat';
     background-color: #053b50;
@@ -288,9 +277,10 @@ nav {
     font-size: 1rem;
     line-height: 1.5rem;
     margin-top: 1.3rem;
+    max-width: 30rem;
+    margin: 0 auto;
+    line-height: 1.7rem;
 }
-
-
 
 
 /*_________________*/
