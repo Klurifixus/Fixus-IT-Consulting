@@ -185,9 +185,12 @@ nav {
     
 }
 .titel-space{
+    display:flex;
     margin-bottom: 4rem;
-    text-align:left;
+    justify-content: center;
+    align-items: center;
     margin-top: auto;
+    font-size: 2rem;
 }
 
 
@@ -224,6 +227,13 @@ nav {
     justify-content: center;
     margin-top: auto;
     cursor: pointer;
+}
+.h4-div{
+    margin-top: 5rem;
+    font-size: 2rem;
+}
+.contact-subheading{
+    margin: 0 auto;
 }
 
 .thanks-form {
@@ -435,7 +445,7 @@ video {
         width: 10rem;
         height: 10rem;
         border-radius: 15%;
-        margin-left: 4rem;
+        margin-left: 0;
         transition: opacity 0.3s;
     }
     .staff-list {
