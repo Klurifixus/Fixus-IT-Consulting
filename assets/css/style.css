@@ -219,6 +219,12 @@ nav {
     justify-content: center;
     cursor: pointer;
 }
+.div-wrap{
+    display: flex;
+  align-items: center;
+  max-width: 128rem;
+}
+
 .h4-div{
     margin-top: 5rem;
     font-size: 2rem;
@@ -393,7 +399,6 @@ video {
     
     .space-div-about {
         margin-top: 14rem;
-    
     }
     /*Hero*/
     .hero{
@@ -437,6 +442,17 @@ video {
         margin: 0 auto;
         line-height: 1.7rem;
     }
+
+    /*CONTACT*/
+
+    .h4-div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 4rem;
+    }
+
+
 
 }
 
