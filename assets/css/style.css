@@ -209,23 +209,14 @@ nav {
 /*_________________*/
 
 .trouble-img {
-    background: #053b50;
-    position : relative;
-    width: 100%;
-    height: 660px;
-    
-
+    background: #053B50;
+    padding: 1.8rem;
 }
-
 .trouble {    
-    position: relative;
-    width: 100%;
-    text-align: left;
-    font-size: 14pt;
-    display: flex;
-    align-items: flex-start;
+    font-size: 1rem;
+    margin: 0 auto;
+    align-items: center;
     justify-content: center;
-    margin-top: auto;
     cursor: pointer;
 }
 .h4-div{
@@ -237,9 +228,10 @@ nav {
 }
 
 .thanks-form {
-    margin-top: 15vh;
-    width: 90%;
-    max-width: 600px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1.5rem;
+    max-width: 67rem;
 }
 
 .contact-form{
@@ -247,6 +239,7 @@ nav {
 }
 
 .contact-label{
+    font-size: 1rem;
     text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.7)
 }
 
@@ -265,17 +258,18 @@ nav {
     outline: 0;
     border: 1px solid #ffffff;
     color: #ffffff;
-    font-size: 19px;
+    font-size: 1rem;
     background: rgba(0, 0, 0, 0.5);
     
 }
 .contact-button{
+    margin-top: 1rem;
     margin-bottom: 3px;
-    padding: 1rem 0;
+    padding: 1rem 0.3;
     font-family: 'sans-serif' 'Montserrat';
     background-color: #053b50;
     border: 1px solid #ffffff;
-    font-size: medium;
+    font-size: 1rem;
     color:#ffffff;
     width: 100%;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
@@ -288,30 +282,7 @@ nav {
     display:flex;
    
 }
-.video-box-contact{
-    margin: 1rem;
-    align-items: center;
-    width: 90%;
-    position:relative;
-    border: 1px solid #ffffff;
 
-}
-.video-box-contact{
-    margin: 1rem;
-    align-items: center;
-    width: 90%;
-    position:relative;
-    border: 1px solid #ffffff;
-}
-.video-box-contact-section{
-    text-align: center;
-    margin-inline-start: 0;
-    margin-bottom: -3rem 2rem 5rem 1rem;
-    border-radius: 20%;
-    
-    
-    
-}
 
 
 
