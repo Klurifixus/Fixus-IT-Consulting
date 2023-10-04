@@ -212,6 +212,15 @@ nav {
     background: #053B50;
     padding: 1.8rem;
 }
+
+.h4-div{
+    margin-top: 4rem;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .trouble {    
     display: flex;
     font-size: 1rem;
@@ -220,21 +229,6 @@ nav {
     align-items: center;
     justify-content: center;
     cursor: pointer;
-}
-.div-wrap{
-    margin: 0 auto;
-}
-
-.h4-div{
-    margin-top: 4rem;
-    font-size: 2rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-}
-.contact-subheading{
-    margin: 0 auto;
 }
 
 .thanks-form {
@@ -245,14 +239,16 @@ nav {
 }
 
 .contact-form{
-    margin-bottom: 3px;
-    width: 100%;
+    margin-bottom: 1rem;
 }
 
 .contact-label{
     font-size: 1rem;
     text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.7)
 }
+
+
+
 
 .contact-input {
    
