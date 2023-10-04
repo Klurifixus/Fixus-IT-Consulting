@@ -178,11 +178,16 @@ nav {
     text-align: auto;    
 }
 .staff-image {
-    width: 5rem;
-    height: 5rem;
+    width: 10rem;
+    height: 10rem;
     border-radius: 15%;
-    margin-left: 4rem;
-    transition: opacity 0.3s;
+    margin-left: 0;
+    
+}
+.titel-space{
+    margin-bottom: 4rem;
+    text-align:left;
+    margin-top: auto;
 }
 
 
