@@ -343,6 +343,9 @@ video {
     padding: 5%;
     color: #64ccc5;
 }
+.bottom-thanks-space{
+    margin-bottom: 5rem;
+}
 
 
 /* Media query: tablets and larger (700px and up) */
@@ -451,9 +454,6 @@ video {
         max-width: 30rem;
         margin: 0 auto;
         line-height: 1.8rem;
-    }
-    .contact-text-sect{
-
     }
 }
 @media screen and (min-width: 992px) {
