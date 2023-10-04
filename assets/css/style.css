@@ -213,7 +213,9 @@ nav {
     padding: 1.8rem;
 }
 .trouble {    
+    display: flex;
     font-size: 1rem;
+    max-width: 130rem;
     margin: 0 auto;
     align-items: center;
     justify-content: center;
@@ -221,7 +223,6 @@ nav {
 }
 .div-wrap{
     margin: 0 auto;
-    width: 40%;
 }
 
 .h4-div{
@@ -245,6 +246,7 @@ nav {
 
 .contact-form{
     margin-bottom: 3px;
+    width: 100%;
 }
 
 .contact-label{
@@ -253,7 +255,7 @@ nav {
 }
 
 .contact-input {
-    width: 100%;
+   
     padding: 8px;
     outline: 0;
     border: 1px solid #ffffff;
@@ -271,10 +273,10 @@ nav {
     background: rgba(0, 0, 0, 0.5);
     
 }
-.contact-button{
+.contact-button{ 
     margin-top: 1rem;
     margin-bottom: 3px;
-    padding: 1rem 0.3;
+    padding: 1rem 1.5rem;
     font-family: 'sans-serif' 'Montserrat';
     background-color: #053b50;
     border: 1px solid #ffffff;
