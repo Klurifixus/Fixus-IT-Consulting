@@ -404,18 +404,25 @@ video {
     .index-service-text{
         font-size: small;
     }
-    .hero-text{
-        font-size: x-large;
-    }
+    
     .space-div-about {
         margin-top: 14rem;
     
+    }
+    /*Hero*/
+    .hero-text{
+        font-size: x-large;
     }
     .hero-first-div{
         display: grid;
         gap: 1rem;
         grid-template-columns: 1fr 1fr;
     }
+    .fixus-hero{
+        size-adjust: auto;
+        margin-top: 12rem;
+    }
+    /*STAFF ABOUT*/
     .staff-image {
         width: 10rem;
         height: 10rem;
@@ -434,10 +441,7 @@ video {
         margin:auto;
         display:block;
     }
-    .fixus-hero{
-        size-adjust: auto;
-        margin-top: 12rem;
-    }
+    
 }
     
 /* Large devices (laptops and desktops, 992px and up) */
