@@ -220,14 +220,17 @@ nav {
     cursor: pointer;
 }
 .div-wrap{
-    display: flex;
-  align-items: center;
-  max-width: 128rem;
+    margin: 0 auto;
+    width: 40%;
 }
 
 .h4-div{
-    margin-top: 5rem;
+    margin-top: 4rem;
     font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 .contact-subheading{
     margin: 0 auto;
@@ -391,9 +394,6 @@ video {
         margin: 0 0.5rem;
     }
    
-    .thanks-form {
-        margin-top: 20vh;
-    }
     .our-service{
         font-size: large;
     }
