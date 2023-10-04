@@ -118,6 +118,7 @@ nav {
 }
 .fixus-title-sect{
     margin-top: 5rem;
+    
 }
 .hero{
     max-width: 75rem;
@@ -447,6 +448,9 @@ video {
         max-width: 30rem;
         margin: 0 auto;
         line-height: 1.8rem;
+    }
+    .contact-text-sect{
+
     }
 }
 @media screen and (min-width: 992px) {
