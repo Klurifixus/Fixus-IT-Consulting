@@ -1,6 +1,6 @@
 # Welcome to Fixus IT Consulting
 
-![Fixus IT Consulting Logo](link-to-your-logo-image)
+![Fixus IT Consulting Logo](assets/readme/logo.png)
 
 Welcome to Fixus IT Consulting, your trusted partner for IT solutions and consulting services. This README.md file provides an overview of our company and what we aim to accomplish. (This is a school project, for educational purposes).
 
@@ -72,12 +72,14 @@ Our approach to website design and user experience includes the following princi
 - Contact Form: Users can easily reach out to us with questions or inquiries.
 
 ## Wireframes
-
+![Wireframes Index](/assets/readme/index-basamiq.png) 
+![Wireframes About](/assets/readme/about-basamiq.png)
+![Wireframes Contact](/assets/readme/contact-basamiq.png)
 Wireframes for desktop, tablet, and mobile devices have been created using Balsamiq software to ensure a logical layout for every page of the website.
 
 ## Color Theme
-
-Our commitment to innovation and modernity is reflected in our visual identity. We have chosen the color blue for its associations with trust, dependability, and professionalism. Blue also promotes clear communication and technology.
+![Pallet](/assets/readme/pallet.png)
+Our commitment to innovation and modernity is reflected in our visual identity. We have chosen the color blue for its associations with trust, dependability, and professionalism. Blue also promotes clear communication and technology. 
 
 ## Typography
 
@@ -88,13 +90,140 @@ Our commitment to innovation and modernity is reflected in our visual identity. 
 ## Features
 
 Below are some features the site currently offers, as well as potential features that might be added in the future:
+![NavBar](/assets/readme/about-mobile-nav.png)
+![NavBar](/assets/readme/index-mobile-nav.png)
+![NavBar](/assets/readme/contact-mobile-nav.png)
+![Footer](/assets/readme/footer-socialmedia.png)
 
 - Contact Form: Users can reach out to us through the website.
-- 'Thank You' Page: A page with a creative animation upon successful form submission.
+- "Thank You" Page: A dedicated page featuring an engaging animation that initiates automatically upon form submission.
 - Staff Information: Details about our team members.
 - Social Media Links: Located in the footer.
 - Favicon: A unique icon for easy recognition.
-- Future Features: Including review carousels, team photos, embedded Google Maps, staff video presentations, social media links, and more.
+- IT Mascot: A distinctive character for immediate recognition.
+
+## Future Features: 
+- Review carousels showcasing client feedback.
+- Team photos to humanize our brand.
+- An embedded Google Maps for easy location reference.
+- Staff video presentations to introduce our dedicated team.
+- Direct links to our social media profiles for better engagement.
+- Transition our form submission method from GET to POST once the appropriate server support is in place."
+
+## License
+
+### Usage:
+
+- The content of this project can be viewed, run locally, or used as a reference for educational purposes.
+
+### Modification:
+
+- You may not alter, transform, or build upon this project for any commercial or public purposes without explicit permission.
+
+### Distribution:
+
+- Redistribution of this project, in its original form or with modifications, is not allowed
+
+ without prior consent.
+
+### Private Use:
+
+- Private use, such as studying or personal reference, is allowed.
+
+### Liability:
+
+- The creator(s) are not responsible for any harm or damage caused by the use or misuse of this project.
+
+## Notable Mentions
+
+- The images used in this project are sourced from Unsplash and Pixabay.
+- The MP4 media file showcased on thanks.html is also attributed to the aforementioned sources. Please respect their terms and rights when using these assets.
+
+## Testing
+
+During the development phase, the site has undergone continuous testing, including:
+
+- Testing the Home Page
+![Lighthouse Index](/assets/readme/index-lighthouse.png)
+![Lighthouse Index1](/assets/readme/index-lighthouse2.png)
+![Lighthouse Index2](/assets/readme/index-lighthouse3.png)
+![Lighthouse Index3](/assets/readme/index-lighthouse4.png)
+- Testing the About Page
+![Lighthouse About](/assets/readme/about-lighthouse.png)
+![Lighthouse About1](/assets/readme/about-lighthouse2.png)
+- Testing the Contact Page
+![Lighthouse Contact](/assets/readme/contact-lighthouse.png)
+- Testing the Thanks Page
+![Lighthouse Thanks](/assets/readme/thanks-lighthouse.png)
+- Validator Testing
+![W3C HTML](/assets/readme/w3c-html.png)
+![W3C CSS](/assets/readme/wc3css.png)
+- Performance Testing
+![Page Speed Insight](/assets/readme/page-speed-insight.png)
+- Plagiarism Testing
+![Copyscape](/assets/readme/copyscape.png)
+
+## Platform View Desktop
+![Desktop](/assets/readme/index-desktop.png)
+![Desktop](/assets/readme/about-desktop.png)
+![Desktop](/assets/readme/contact-desktop.png)
+
+## Platform View Tablet
+![Tablet](/assets/readme/index-tablet.png)
+![Tablet](/assets/readme/about-tablet.png)
+![Tablet](/assets/readme/contact-tablet.png)
+![Tablet](/assets/readme/thanks-tablet.png)
+
+## Platform View Mobile
+![Mobile](/assets/readme/index-tablet.png)
+![Mobile](/assets/readme/about-tablet.png)
+![Mobile](/assets/readme/contact-tablet.png)
+
+## Deployment
+
+- Language: English
+
+## Media
+![Picture of the Thanks.html](/assets/readme/thanks-tablet.png)
+![The Thanks move](/assets/video/atoms_-_13232%20(540p).mp4)
+- This one is shown when you filled in you contact information
+## Tools I Have Used
+
+- Visual Studio for coding.
+- GitHub for repository management.
+- Git for version control.
+- ChatGPT for guidance.
+- Git Extension in Visual Studio with debugging.
+- Python for running Python3 http.server.
+- Favicon for icons.
+- Font Awesome for icons.
+- Balsamiq for wireframing.
+- Windows Photo for image cropping.
+- Chrome DevTools for debugging and optimization.
+
+## Credits, Thanks and Content Sources
+
+- The Love Running Project: Provided foundational elements for the Home page.
+- ChatGPT: Offered advice, code samples, explanations, and grammar corrections.
+- My Girlfriend: Provided support, feedback, and recommendations.
+- Hurtig: Offered insights as a Cloud Architect.
+- David Calikes portfolio-project-one: Inspired this README file.
+- Pixabay: Provided free images and videos.
+- Unsplash: Contributed complimentary images.
+- Sundeep: Mentorship and insights, especially regarding Chrome DevTools.
+- [Other Credits and Thanks]
+
+## Summary of What I've Learned
+
+I've learned the following during this project:
+
+- The importance of starting with a wireframe.
+- The challenge of summarizing a complex project in a README.
+- A deeper understanding of HTML, CSS, and flexbox.
+- The value of seeking solutions and being patient.
+- The educational benefit of fixing mistakes and improving over time.
+
+If I had more time, I would further enhance the site with additional features and improvements.
 
 ## Setting Up Fixus IT Consulting on Your Local Machine
 
@@ -164,100 +293,3 @@ Below are some features the site currently offers, as well as potential features
 
 - If you want to erase changes and revert to a previous commit, first find the commit hash from `git log`.
 - Type `git reset --hard [COMMIT_HASH]` and press Enter. This will take your project back to the state of that commit.
-
-## License
-
-### Usage:
-
-- The content of this project can be viewed, run locally, or used as a reference for educational purposes.
-
-### Modification:
-
-- You may not alter, transform, or build upon this project for any commercial or public purposes without explicit permission.
-
-### Distribution:
-
-- Redistribution of this project, in its original form or with modifications, is not allowed
-
- without prior consent.
-
-### Private Use:
-
-- Private use, such as studying or personal reference, is allowed.
-
-### Liability:
-
-- The creator(s) are not responsible for any harm or damage caused by the use or misuse of this project.
-
-### Warranty:
-
-- This project is provided "as is" without any warranties or guarantees of any kind.
-
-## Notable Mentions
-
-- The images used in this project are sourced from Unsplash and Pixabay.
-- The MP4 media file showcased on thanks.html is also attributed to the aforementioned sources. Please respect their terms and rights when using these assets.
-
-## Testing
-
-During the development phase, the site has undergone continuous testing, including:
-
-- Testing the Home Page
-- Testing the About Page
-- Testing the Contact Page
-- Testing the Thanks Page
-- Validator Testing
-- Performance Testing
-- Other bug fixes
-
-## Deployment
-
-- Language: English
-
-## Media
-
-- [Link to Your Media File](insert-link-here)
-
-## Credits and Thanks
-
-### Content:
-
-- [List of Content Sources]
-
-## Tools I Have Used
-
-- Visual Studio for coding.
-- GitHub for repository management.
-- Git for version control.
-- ChatGPT for guidance.
-- Git Extension in Visual Studio with debugging.
-- Python for running Python3 http.server.
-- Favicon for icons.
-- Font Awesome for icons.
-- Balsamiq for wireframing.
-- Windows Photo for image cropping.
-- Chrome DevTools for debugging and optimization.
-
-## Credits and Thanks
-
-- The Love Running Project: Provided foundational elements for the Home page.
-- ChatGPT: Offered advice, code samples, explanations, and grammar corrections.
-- My Girlfriend: Provided support, feedback, and recommendations.
-- Hurtig: Offered insights as a Cloud Architect.
-- David Calikes portfolio-project-one: Inspired this README file.
-- Pixabay: Provided free images and videos.
-- Unsplash: Contributed complimentary images.
-- Sundeep: Mentorship and insights, especially regarding Chrome DevTools.
-- [Other Credits and Thanks]
-
-## Summary of What I've Learned
-
-I've learned the following during this project:
-
-- The importance of starting with a wireframe.
-- The challenge of summarizing a complex project in a README.
-- A deeper understanding of HTML, CSS, and flexbox.
-- The value of seeking solutions and being patient.
-- The educational benefit of fixing mistakes and improving over time.
-
-If I had more time, I would further enhance the site with additional features and improvements.
