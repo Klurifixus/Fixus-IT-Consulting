@@ -270,16 +270,16 @@ nav {
     margin-top:1rem;    
 }
 
-
+.contact-text-sect{
+    margin-top: 1.3rem;
+}
 
 .h4-contact{
-    font-family: "san-serif", montserrat;
+    font-family: 'sans-serif', 'Montserrat';
     font-size: 1rem;
     line-height: 1.5rem;
-    margin-top: 1.3rem;
     max-width: 30rem;
     margin: 0 auto;
-    line-height: 1.7rem;
 }
 
 
@@ -374,7 +374,7 @@ video {
         font-size: 120%;
         margin: 0 0.5rem;
     }
-   
+
     .our-service{
         font-size: large;
     }
@@ -444,10 +444,11 @@ video {
         margin-top: 3rem;
     }
 
-
-
-
-
+    .p-contact{
+        max-width: 30rem;
+        margin: 0 auto;
+        line-height: 1.8rem;
+    }
 }
 
     
