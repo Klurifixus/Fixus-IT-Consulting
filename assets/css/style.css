@@ -449,51 +449,55 @@ video {
     
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
-
+/*INDEX*/
 .fixus-hero{
     margin-top: 16rem;
     
 }
 
 .hero{
-    max-width: 130rem;
     margin: 0 auto;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 4.6rem;
+    gap: 5.6rem;
     align-items: center;
 }
 
 .fixus-text-box{
     width: 100%;
 }
+.fixus-title-sect{
+    margin-top: 2rem;
+}
+.hero-first-div{
+    margin: auto;
+    
+}
+.fixus-titel{
+    display:flex;
+    letter-spacing: -1px;
+    padding-bottom: 1.5rem;
+    font-size: 3.8rem;
+    font-weight: 600;
+}
 
+.hero-text{
+    font-size: xx-large;
+}
+
+/**/
       
-    .index-info{
-        padding-right: 1rem;
-    }
-    .our-service{
+
+.our-service{
         font-size: larger;
     }
-    .space-service{
+.space-service{
         font-size: large;
     }
-    .index-service-text{
-        font-size: medium;
-    }
-    .hero-text{
-        font-size: xx-large;
-    }
-    .staff{
+
+.staff{
         align-items: center;
         }
-    .fixus-title-sect{
-        margin-top: 2rem;
-    }
-    .hero-first-div{
-        margin: auto;
-        grid-template-columns: 1fr;
-    }
-
+    
 
 }
