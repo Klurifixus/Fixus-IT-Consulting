@@ -117,7 +117,7 @@ nav {
     font-size: 0.9;
 }
 .fixus-title-sect{
-    margin-top: 4.5rem;
+    margin-top: 5rem;
 }
 .hero{
     max-width: 75rem;
@@ -125,7 +125,7 @@ nav {
     margin: 0 auto;
     grid-template-columns: 1fr;
     align-items: center;
-    gap: 1,8rem;
+    gap: 5rem;
     align-items: center;
     text-shadow: 0 3px 4px rgba(0, 0, 0, 0.3);
 }
@@ -465,7 +465,6 @@ video {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 5.6rem;
-    align-items: center;
 }
 
 .fixus-text-box{
@@ -480,10 +479,12 @@ video {
     margin-top: 2rem;
 }
 .hero-first-div{
-    margin: auto;
+    margin: 0 auto;
     grid-template-columns: 1fr;
-    
 }
+
+
+
 .fixus-titel{
     display:flex;
     letter-spacing: -1px;
