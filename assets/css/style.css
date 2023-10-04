@@ -391,6 +391,10 @@ video {
         margin-top: 14rem;
     
     }
+    .hero-first-div{
+        display: grid;
+        gap: 1rem;
+    }
     .staff-image {
         width: 10rem;
         height: 10rem;
