@@ -394,6 +394,7 @@ video {
     .hero-first-div{
         display: grid;
         gap: 1rem;
+        grid-template-columns: 1fr 1fr;
     }
     .staff-image {
         width: 10rem;
