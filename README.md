@@ -3,7 +3,7 @@
 ![Fixus IT Consulting Logo](/logo.png)
 
 Welcome to Fixus IT Consulting, your trusted partner for IT solutions and consulting services. This README.md file provides an overview of Fixus IT Consulting website. (This is a school project, for educational purposes. And It's FICTIONAL).
-
+<img src="/120606.png" height="300" alt="Picture of homepage in mobile, desktop and on tablet">
 ## About Us
 
 Fixus IT Consulting specializes in maintaining, developing, and securing IT systems for both businesses and individuals. Our mission is to provide top-notch IT services that empower our clients to thrive in the digital age.
@@ -102,7 +102,6 @@ Below are some features the site currently offers:
 
 
 <p float="left">
-<img src="/120606.png" height="300" alt="Picture of homepage in mobile, desktop and on tablet">
 <img src="/about-mobie-nav.png" height="300" alt="Picture of how About.html shows the navbar">
 <img src="/index-mobile-nav.png" height="300" alt="Picture of how Index.html shows the navbar">
 <img src="/contact-mobile-nav.png" height="300" alt="Picture of how Contact.html shows the navbar">
