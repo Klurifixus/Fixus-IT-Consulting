@@ -1,6 +1,6 @@
 # Welcome to Fixus IT Consulting
 
-![Fixus IT Consulting Logo](assets/readme/logo.png)
+![Fixus IT Consulting Logo](/logo.png)
 
 Welcome to Fixus IT Consulting, your trusted partner for IT solutions and consulting services. This README.md file provides an overview of our company and what we aim to accomplish. (This is a school project, for educational purposes).
 
@@ -72,13 +72,13 @@ Our approach to website design and user experience includes the following princi
 - Contact Form: Users can easily reach out to us with questions or inquiries.
 
 ## Wireframes
-![Wireframes Index](/assets/readme/index-basamiq.png) 
-![Wireframes About](/assets/readme/about-basamiq.png)
-![Wireframes Contact](/assets/readme/contact-basamiq.png)
+![Wireframes Index](/index-basamiq.png) 
+![Wireframes About](/about-basamiq.png)
+![Wireframes Contact](/contact-basamiq.png)
 Wireframes for desktop, tablet, and mobile devices have been created using Balsamiq software to ensure a logical layout for every page of the website.
 
 ## Color Theme
-![Pallet](/assets/readme/pallet.png)
+![Pallet](/pallet.png)
 Our commitment to innovation and modernity is reflected in our visual identity. We have chosen the color blue for its associations with trust, dependability, and professionalism. Blue also promotes clear communication and technology. 
 
 ## Typography
@@ -90,17 +90,21 @@ Our commitment to innovation and modernity is reflected in our visual identity. 
 ## Features
 
 Below are some features the site currently offers, as well as potential features that might be added in the future:
-![NavBar](/assets/readme/about-mobile-nav.png)
-![NavBar](/assets/readme/index-mobile-nav.png)
-![NavBar](/assets/readme/contact-mobile-nav.png)
-![Footer](/assets/readme/footer-socialmedia.png)
+![NavBar](/about-mobile-nav.png)
+![NavBar](/index-mobile-nav.png)
+![NavBar](/contact-mobile-nav.png)
+![Footer](/footer-socialmedia.png)
 
+- All links opens in a new window.
 - Contact Form: Users can reach out to us through the website.
-- "Thank You" Page: A dedicated page featuring an engaging animation that initiates automatically upon form submission.
+- "Thank You" Page: A dedicated page featuring an engaging animation that initiates automatically upon the form submission.
 - Staff Information: Details about our team members.
 - Social Media Links: Located in the footer.
 - Favicon: A unique icon for easy recognition.
+![Favicon](/favicon2.png)
 - IT Mascot: A distinctive character for immediate recognition.
+![Mascot](/mascot.png)
+
 
 ## Future Features: 
 - Review carousels showcasing client feedback.
@@ -144,49 +148,50 @@ Below are some features the site currently offers, as well as potential features
 During the development phase, the site has undergone continuous testing, including:
 
 - Testing the Home Page
-![Lighthouse Index](/assets/readme/index-lighthouse.png)
-![Lighthouse Index1](/assets/readme/index-lighthouse2.png)
-![Lighthouse Index2](/assets/readme/index-lighthouse3.png)
+![Lighthouse Index](/index-lighthouse.png)
+![Lighthouse Index1](/index-lighthouse2.png)
+![Lighthouse Index2](/index-lighthouse3.png)
 ![Lighthouse Index3](/assets/readme/index-lighthouse4.png)
 - Testing the About Page
-![Lighthouse About](/assets/readme/about-lighthouse.png)
-![Lighthouse About1](/assets/readme/about-lighthouse2.png)
+![Lighthouse About](/about-lighthouse.png)
+![Lighthouse About1](/about-lighthouse2.png)
 - Testing the Contact Page
-![Lighthouse Contact](/assets/readme/contact-lighthouse.png)
+![Lighthouse Contact](/contact-lighthouse.png)
 - Testing the Thanks Page
-![Lighthouse Thanks](/assets/readme/thanks-lighthouse.png)
+![Lighthouse Thanks](/thanks-lighthouse.png)
 - Validator Testing
-![W3C HTML](/assets/readme/w3c-html.png)
-![W3C CSS](/assets/readme/wc3css.png)
+![W3C HTML](/w3c-html.png)
+![W3C CSS](/wc3css.png)
 - Performance Testing
-![Page Speed Insight](/assets/readme/page-speed-insight.png)
+![Page Speed Insight](/page-speed-insight.png)
 - Plagiarism Testing
-![Copyscape](/assets/readme/copyscape.png)
+![Copyscape](//copyscape.png)
 
 ## Platform View Desktop
-![Desktop](/assets/readme/index-desktop.png)
-![Desktop](/assets/readme/about-desktop.png)
-![Desktop](/assets/readme/contact-desktop.png)
+![Desktop](/index-desktop.png)
+![Desktop](/about-desktop.png)
+![Desktop](/contact-desktop.png)
 
 ## Platform View Tablet
-![Tablet](/assets/readme/index-tablet.png)
-![Tablet](/assets/readme/about-tablet.png)
-![Tablet](/assets/readme/contact-tablet.png)
-![Tablet](/assets/readme/thanks-tablet.png)
+![Tablet](/index-tablet.png)
+![Tablet](/about-tablet.png)
+![Tablet](/contact-tablet.png)
+![Tablet](/thanks-tablet.png)
 
 ## Platform View Mobile
-![Mobile](/assets/readme/index-tablet.png)
-![Mobile](/assets/readme/about-tablet.png)
-![Mobile](/assets/readme/contact-tablet.png)
+![Mobile](/index-tablet.png)
+![Mobile](/about-tablet.png)
+![Mobile](/contact-tablet.png)
 
 ## Deployment
 
 - Language: English
 
 ## Media
-![Picture of the Thanks.html](/assets/readme/thanks-tablet.png)
+![Picture of the Thanks.html](/thanks-tablet.png)
 ![The Thanks move](/assets/video/atoms_-_13232%20(540p).mp4)
 - This one is shown when you filled in you contact information
+
 ## Tools I Have Used
 
 - Visual Studio for coding.
@@ -200,6 +205,10 @@ During the development phase, the site has undergone continuous testing, includi
 - Balsamiq for wireframing.
 - Windows Photo for image cropping.
 - Chrome DevTools for debugging and optimization.
+- Lighthouse: Testing webpage.
+- Copyscape: Plagiarism detection service.
+- W3C: For html and css validation.
+- Page Speed Insight: Test the Performance.
 
 ## Credits, Thanks and Content Sources
 
@@ -211,19 +220,26 @@ During the development phase, the site has undergone continuous testing, includi
 - Pixabay: Provided free images and videos.
 - Unsplash: Contributed complimentary images.
 - Sundeep: Mentorship and insights, especially regarding Chrome DevTools.
-- [Other Credits and Thanks]
+- Udemy lessions from: Jonas Schmedtmann.
 
 ## Summary of What I've Learned
 
 I've learned the following during this project:
 
 - The importance of starting with a wireframe.
-- The challenge of summarizing a complex project in a README.
-- A deeper understanding of HTML, CSS, and flexbox.
+- Documenting As I Go: The README has been a hard lession.
+- Regularly Checking with W3C: A hard lession as well.
+- A deeper understanding of HTML, CSS, and flexbox: But I will contin
 - The value of seeking solutions and being patient.
 - The educational benefit of fixing mistakes and improving over time.
+- Continuous Learning.
 
 If I had more time, I would further enhance the site with additional features and improvements.
+
+- Enhance Site Features: Given more time, the website would benefit from added features to improve user interaction and overall experience.
+- Several PNG images have been identified with issues. Specifically, images on the About.html, Contact.html, and Thanks.html pages would undergo corrections 
+- The site currently has a limitation due to the lack of a dedicated server for mail. This leads to some operational challenges which would be addressed in future updates.
+- Some existing issues can be quickly resolved with additional time. These will be prioritized in the next phase of development to ensure the website performs optimally across all areas.
 
 ## Setting Up Fixus IT Consulting on Your Local Machine
 
