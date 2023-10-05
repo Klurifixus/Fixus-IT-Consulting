@@ -105,16 +105,10 @@ Below are some features the site currently offers, as well as potential features
 ![Footer](/footer-socialmedia(1).png)
 ![Menu](/head-logo-hamburger.png)
 
-[Menu link](/head-logo-menu.png)
+[Menu link](/head-logo-menu.png) "Click to open"
 
-[Favicon link](/favicon2.png)
+[Favicon link](/favicon2.png) "Click to open"
 
-
-- All links opens in a new window.
-- Contact Form: Users can reach out to us through the website.
-- "Thank You" Page: A dedicated page featuring an engaging animation that initiates automatically upon the form submission.
-- Staff Information: Details about our team members.
-- Social Media Links: Located in the footer.
 
 ![Favicon](/favicon1.png)
 - Favicon: A unique icon for easy recognition.
@@ -122,6 +116,12 @@ Below are some features the site currently offers, as well as potential features
 ![Mascot](/mascot.png)
 - IT Mascot: A distinctive character for immediate recognition.
 
+
+- All links opens in a new window.
+- Contact Form: Users can reach out to us through the website.
+- "Thank You" Page: A dedicated page featuring an engaging animation that initiates automatically upon the form submission.
+- Staff Information: Details about our team members.
+- Social Media Links: Located in the footer.
 
 ## Future Features: 
 - Review carousels showcasing client feedback.
@@ -163,6 +163,7 @@ Below are some features the site currently offers, as well as potential features
 During the development phase, the site has undergone continuous testing, including:
 
 - Testing the Home Page
+<img src="/index-lighthouse.png" width="200" height="150" alt="Lighthouse test shows good scores">
 ![Lighthouse Index](/index-lighthouse.png)
 ![Lighthouse Index1](/index-lighthouse2.png)
 ![Lighthouse Index2](/index-lighthouse3.png)
