@@ -102,6 +102,7 @@ Below are some features the site currently offers:
 
 
 <p float="left">
+<img src="/120606.png" height="300" alt="Picture of homepage in mobile, desktop and on tablet">
 <img src="/about-mobie-nav.png" height="300" alt="Picture of how About.html shows the navbar">
 <img src="/index-mobile-nav.png" height="300" alt="Picture of how Index.html shows the navbar">
 <img src="/contact-mobile-nav.png" height="300" alt="Picture of how Contact.html shows the navbar">
