@@ -99,6 +99,10 @@ Below are some features the site currently offers, as well as potential features
 ![NavBar](/index-mobile-nav.png)
 ![NavBar](/contact-mobile-nav.png)
 ![Footer](/footer-socialmedia(1).png)
+![Menu](/head-logo-hamburger.png)
+[Menu](/head-logo-menu.png)
+[Favicon](/favicon2.png)
+
 
 - All links opens in a new window.
 - Contact Form: Users can reach out to us through the website.
