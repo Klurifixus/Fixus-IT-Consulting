@@ -394,6 +394,14 @@ My hope is that this project meets the necessary criteria. While perfection wasn
 - If you want to erase changes and revert to a previous commit, first find the commit hash from `git log`.
 - Type `git reset --hard [COMMIT_HASH]` and press Enter. This will take your project back to the state of that commit.
 
-## Thanks for your time, I Hope this have given you some insights of what I've done and maybe saved you some time!
-- If you have any questions please contact me on: Pirrefixus@gmail.com
-Best Regards:// Pierre
+
+
+
+
+
+
+
+
+# Thanks for your time, I Hope this have given you some insights of what I've done and maybe saved you some time!
+## If you have any questions please contact me on: Pirrefixus@gmail.com
+### Best Regards:// Pierre
