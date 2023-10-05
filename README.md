@@ -109,9 +109,8 @@ Below are some features the site currently offers, as well as potential features
 - "Thank You" Page: A dedicated page featuring an engaging animation that initiates automatically upon the form submission.
 - Staff Information: Details about our team members.
 - Social Media Links: Located in the footer.
-- Favicon: A unique icon for easy recognition.
 ![Favicon](/favicon1.png)
-
+- Favicon: A unique icon for easy recognition.
 ![Mascot](/mascot.png)
 - IT Mascot: A distinctive character for immediate recognition.
 
