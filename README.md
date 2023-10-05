@@ -171,7 +171,7 @@ Below are some features the site currently offers:
 <img src="/index-lighthouse4.png" height="300" alt="Lighthouse test shows scores">
 </>
 
-- As you can se, there are som flaws. Much repeat them self on all pages.
+- As you can se, there are some flaws. Much repeat them self on all pages.
 
 ### Testing the About Page
 <p float="left">
@@ -179,7 +179,7 @@ Below are some features the site currently offers:
 <img src="/about-lighthouse2.png" height="300" alt="Lighthouse test shows scores">
 </>
 
-- Flaws here as well.
+- Flaws here as well...
 
 ### Testing the Contact Page
 <p float="left">
@@ -187,13 +187,13 @@ Below are some features the site currently offers:
 <img src="/contact-lighthouse2.png" height="300" alt="Lighthouse test shows scores">
 </>
 
-- Here to....
+- And ...Here to!
 
 ### Testing the Thanks Page
 
 <img src="/thanks-lighthouse.png" height="300" alt="Lighthouse test shows scores">
 
-- And i belive there are needed adjustments here for the mp4 file. It's not showing the whole picture. Incounter the same problem as the other pages aswell.
+- And i belive there are needed adjustments here for the mp4 file. It's not showing the whole picture. Incounter the other problem as on this page aswell.
 
 ### Validator Testing
 <p float="left">
@@ -205,11 +205,11 @@ Below are some features the site currently offers:
 
 ### Performance Testing
 <img src="/page-speed-insight.png" height="300" alt="Page Speed Insight test shows scores">
-- 88 in preformance is because of an large image mascot. Didn't have time to fix that.
+- 88 In preformance is because of an large image mascot. Didn't have time to fix that.
 
 ### Plagiarism Testing
 <img src="/copyscape.png" height="300" alt="Plagiarism Testing shows scores">
-- Tried this one just to show you that i am an artist, i take inspiration and make it my own!
+- Tried this one just to show you that I'm an artist, I take inspiration and make it my own!
 
 ## Platform View Desktop
 <p float="left">
@@ -218,7 +218,7 @@ Below are some features the site currently offers:
 <img src="/contact-desktop.png" height="200" alt="Desktop view over contact.html">
 </>
 
-- This is a view over the tree first pages from a desktops point of view. I didn't include the Thanks.html page because i don't think it's finished.
+- This is a view over the tree first pages from a desktops point of view. I didn't include the Thanks.html page because I don't think it's finished.
 
 ## Platform View Tablet
 <p float="left">
