@@ -181,6 +181,7 @@ During the development phase, the site has undergone continuous testing, includi
 <img src="/contact-lighthouse.png" height="300" alt="Lighthouse test shows scores">
 <img src="/contact-lighthouse2.png" height="300" alt="Lighthouse test shows scores">
 </>
+
 - Testing the Thanks Page
 <img src="/thanks-lighthouse.png" height="300" alt="Lighthouse test shows scores">
 
@@ -189,6 +190,7 @@ During the development phase, the site has undergone continuous testing, includi
 <img src="/w3c-html.png" height="300" alt="W3C HTML test shows scores">
 <img src="/wc3css.png" height="300" alt="W3C CSS test shows scores">
 </>
+
 - Performance Testing
 <img src="/page-speed-insight.png" height="300" alt="Page Speed Insight test shows scores">
 
@@ -196,29 +198,33 @@ During the development phase, the site has undergone continuous testing, includi
 <img src="/copyscape.png" height="300" alt="Plagiarism Testing shows scores">
 
 ## Platform View Desktop
-![Desktop](/index-desktop.png)
-![Desktop](/about-desktop.png)
-![Desktop](/contact-desktop.png)
+<img src="/index-desktop.png" height="250" alt="Desktop view over index.html">
+<img src="/about-desktop.png" height="250" alt="Desktop view over about.html">
+<img src="/contact-desktop.png" height="250" alt="Desktop view over contact.html">
+
 
 ## Platform View Tablet
-![Tablet](/index-tablet.png)
-![Tablet](/about-tablet.png)
-![Tablet](/contact-tablet.png)
-![Tablet](/thanks-tablet.png)
+<img src="/index-tablet.png" height="250" alt="Tablet view over index.html">
+<img src="/about-tablet.png" height="250" alt="Tablet view over about.html">
+<img src="/contact-tablet.png" height="250" alt="Tablet view over contact.html">
+<img src="/thanks-tablet.png" height="250" alt="Tablet view over thanks.html">
+
 
 ## Platform View Mobile
-![Mobile](/index-tablet.png)
-![Mobile](/about-tablet.png)
-![Mobile](/contact-tablet.png)
+<img src="/index-mobile.png" height="250" alt="Mobile view over index.html">
+<img src="/about-mobile.png" height="250" alt="Mobile view over about.html">
+<img src="/contact-mobile.png" height="250" alt="Mobile view over contact.html">
+
 
 ## Deployment
 
 - Language: English
 
 ## Media
-![Picture of the Thanks.html](/thanks-tablet.png)
-![The Thanks move](/assets/video/atoms_-_13232%20(540p).mp4)
-- This one is shown when you filled in you contact information
+- I know you should'nt have one on autoplay, but i wanted it. So i created it!
+<img src="/thanks-tablet.png" height="250" alt="Picture of the Thanks.html and the mp4 file that opens automatically.">
+
+
 
 ## Tools I Have Used
 
