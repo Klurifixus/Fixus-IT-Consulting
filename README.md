@@ -2,7 +2,7 @@
 
 ![Fixus IT Consulting Logo](/logo.png)
 
-Welcome to Fixus IT Consulting, your trusted partner for IT solutions and consulting services. This README.md file provides an overview of our company and what we aim to accomplish. (This is a school project, for educational purposes).
+Welcome to Fixus IT Consulting, your trusted partner for IT solutions and consulting services. This README.md file provides an overview of Fixus IT Consulting website. (This is a school project, for educational purposes. And It's FICTIONAL).
 
 ## About Us
 
@@ -98,7 +98,7 @@ Our commitment to innovation and modernity is reflected in our visual identity. 
 
 ## Features
 
-Below are some features the site currently offers, as well as potential features that might be added in the future:
+Below are some features the site currently offers:
 ![NavBar](/about-mobie-nav.png)
 ![NavBar](/index-mobile-nav.png)
 ![NavBar](/contact-mobile-nav.png)
@@ -160,7 +160,7 @@ Below are some features the site currently offers, as well as potential features
 
 ## Testing
 
-During the development phase, the site has undergone continuous testing, including:
+- During the development phase, the site has undergone continuous testing, including:
 
 - Testing the Home Page
 <p float="left">
@@ -169,39 +169,39 @@ During the development phase, the site has undergone continuous testing, includi
 <img src="/index-lighthouse3.png" height="300" alt="Lighthouse test shows scores">
 <img src="/index-lighthouse4.png" height="300" alt="Lighthouse test shows scores">
 </>
-As you can se, there are som flaws. Much repeat them self on all pages.
+- As you can se, there are som flaws. Much repeat them self on all pages.
 
 - Testing the About Page
 <p float="left">
 <img src="/about-lighthouse.png" height="300" alt="Lighthouse test shows scores">
 <img src="/about-lighthouse2.png" height="300" alt="Lighthouse test shows scores">
 </>
-Flaws here as well.
+- Flaws here as well.
 
 - Testing the Contact Page
 <p float="left">
 <img src="/contact-lighthouse.png" height="300" alt="Lighthouse test shows scores">
 <img src="/contact-lighthouse2.png" height="300" alt="Lighthouse test shows scores">
 </>
-Here to....
+- Here to....
 - Testing the Thanks Page
 <img src="/thanks-lighthouse.png" height="300" alt="Lighthouse test shows scores">
-And i belive there are needed adjustments here for the mp4 file. It's not showing the whole picture. Incounter the same problem as the other pages aswell.
+- And i belive there are needed adjustments here for the mp4 file. It's not showing the whole picture. Incounter the same problem as the other pages aswell.
 
 - Validator Testing
 <p float="left">
 <img src="/w3c-html.png" height="300" alt="W3C HTML test shows scores">
 <img src="/wc3css.png" height="300" alt="W3C CSS test shows scores">
 </>
-This looks ok!
+- This looks ok!
 
 - Performance Testing
 <img src="/page-speed-insight.png" height="300" alt="Page Speed Insight test shows scores">
-88 in preformance is because of an large image mascot. Didn't have time to fix that.
+- 88 in preformance is because of an large image mascot. Didn't have time to fix that.
 
 - Plagiarism Testing
 <img src="/copyscape.png" height="300" alt="Plagiarism Testing shows scores">
-Tried this one just to show you that i am an artist, i take inspiration and make it my own!
+- Tried this one just to show you that i am an artist, i take inspiration and make it my own!
 
 ## Platform View Desktop
 <p float="left">
@@ -209,7 +209,7 @@ Tried this one just to show you that i am an artist, i take inspiration and make
 <img src="/about-desktop.png" height="200" alt="Desktop view over about.html">
 <img src="/contact-desktop.png" height="200" alt="Desktop view over contact.html">
 </>
-This is a view over the tree first pages from a desktops point of view. I didn't include the Thanks.html page because i don't think it's finished.
+- This is a view over the tree first pages from a desktops point of view. I didn't include the Thanks.html page because i don't think it's finished.
 
 ## Platform View Tablet
 <p float="left">
@@ -218,7 +218,7 @@ This is a view over the tree first pages from a desktops point of view. I didn't
 <img src="/contact-tablet.png" height="250" alt="Tablet view over contact.html">
 <img src="/thanks-tablet.png" height="250" alt="Tablet view over thanks.html">
 </>
-This is a view over the tree first pages from a tablets point of view. I included the thanks.html just to show you.
+- This is a view over the tree first pages from a tablets point of view. I included the thanks.html just to show you.
 
 ## Platform View Mobile
 <p float="left">
@@ -226,21 +226,21 @@ This is a view over the tree first pages from a tablets point of view. I include
 <img src="/about-mobile.png" height="250" alt="Mobile view over about.html">
 <img src="/contact-mobile.png" height="250" alt="Mobile view over contact.html">
 </>
-This is how it looks on a cellphone. I have on the picture added out the scrolling part.
+- This is how it looks on a cellphone. I have on the picture added out the scrolling part.
 
 ## Deployment
 
 - Language: English
 
 ## Media
-I know you should'nt have one on autoplay, but i wanted it. So i created it!
+- I know you should'nt have one on autoplay, but i wanted it. So i created it!
 <img src="/thanks-tablet.png" height="250" alt="Picture of the Thanks.html and the mp4 file that opens automatically.">
-I know you should'nt have one on autoplay, but i wanted it. So i created it!
+- I know you should'nt have one on autoplay, but i wanted it. So i created it!
 
 ## Bugs
 - Used a empty div to make space in the bottom of the contact.html page.
 - Used added margin-bottom and top to adjust view, because of flaws in flexbox an all pages.
- 
+
 ## Tools I Have Used
 
 - Visual Studio for coding.
