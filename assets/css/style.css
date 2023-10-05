@@ -11,7 +11,7 @@
 
 /*_________________*/
 /* GENERAL STYLES  */
-/*_________________*/
+/*based on love running project*/
 
 
 body {
@@ -30,7 +30,7 @@ body {
 
 /*_________________*/
 /* HEADER  */
-/*_________________*/
+/*based from the beginning from loverunning project*/
 
 header {
     background-color: #053b50;
@@ -205,9 +205,9 @@ nav {
 .space-div-about-down {
     margin-bottom: 8rem;
 }
-/*_________________*/
+
 /* CONTACT.HTML  */
-/*_________________*/
+/*Inspired by diffrent youtube videos*/
 
 .trouble-img {
     background: #053B50;
@@ -261,7 +261,7 @@ nav {
 .contact-button{ 
     margin-top: 1rem;
     padding: 1rem 1.5rem;
-    font-family: sans-serif 'Montserrat';
+    font-family: sans-serif, 'Montserrat';
     background-color: #053b50;
     border: 1px solid #ffffff;
     font-size: 1rem;
@@ -320,7 +320,7 @@ video {
 
 /*_________________*/
 /* FOOTER  */
-/*_________________*/
+/*copied straight of love-running, added other colors*/
 .footer {
     position: fixed; 
     bottom: 0; 
