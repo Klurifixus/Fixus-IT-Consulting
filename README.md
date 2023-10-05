@@ -109,8 +109,9 @@ Below are some features the site currently offers:
 <img src="/footer-socialmedia(1).png" height="80" alt="Picture of the footer">
 <img src="/head-logo-hamburger.png" height="80" alt="Picture of the logo and the hamburger menu icon">
 <img src="/head-logo-menu.png" height="80" alt="Picture of the logo and the menu viewed on desktop">
-<img src="/favicon2.png" height="300" alt="Picture of the favicon on the browser">
 <img src="/favicon1.png" height="80" alt="Picture of the favicon icon looks">
+<img src="/favicon2.png" height="300" alt="Picture of the favicon on the browser">
+
 
 </>
 - All links opens in a new window.
