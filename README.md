@@ -90,10 +90,10 @@ Our commitment to innovation and modernity is reflected in our visual identity. 
 ## Features
 
 Below are some features the site currently offers, as well as potential features that might be added in the future:
-![NavBar](/about-mobile-nav.png)
+![NavBar](/about-mobie-nav.png)
 ![NavBar](/index-mobile-nav.png)
 ![NavBar](/contact-mobile-nav.png)
-![Footer](/footer-socialmedia.png)
+![Footer](/footer-socialmedia(1).png)
 
 - All links opens in a new window.
 - Contact Form: Users can reach out to us through the website.
