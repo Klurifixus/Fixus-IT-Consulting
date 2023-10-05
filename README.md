@@ -6,6 +6,8 @@ Welcome to Fixus IT Consulting, your trusted partner for IT solutions and consul
 
 
 <img src="/120606.png" height="300" alt="Picture of homepage in mobile, desktop and on tablet">
+
+
 ## About Us
 
 Fixus IT Consulting specializes in maintaining, developing, and securing IT systems for both businesses and individuals. Our mission is to provide top-notch IT services that empower our clients to thrive in the digital age.
