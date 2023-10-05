@@ -105,11 +105,11 @@ Below are some features the site currently offers:
 <img src="/about-mobie-nav.png" height="300" alt="Picture of how About.html shows the navbar">
 <img src="/index-mobile-nav.png" height="300" alt="Picture of how Index.html shows the navbar">
 <img src="/contact-mobile-nav.png" height="300" alt="Picture of how Contact.html shows the navbar">
-<img src="/footer-socialmedia(1).png" height="300" alt="Picture of the footer">
-<img src="/head-logo-hamburger.png" height="300" alt="Picture of the logo and the hamburger menu icon">
-<img src="/head-logo-menu.png" height="300" alt="Picture of the logo and the menu viewed on desktop">
+<img src="/footer-socialmedia(1).png" height="80" alt="Picture of the footer">
+<img src="/head-logo-hamburger.png" height="80" alt="Picture of the logo and the hamburger menu icon">
+<img src="/head-logo-menu.png" height="80" alt="Picture of the logo and the menu viewed on desktop">
 <img src="/favicon2.png" height="300" alt="Picture of the favicon on the browser">
-<img src="/favicon1.png" height="300" alt="Picture of the favicon icon looks">
+<img src="/favicon1.png" height="80" alt="Picture of the favicon icon looks">
 <img src="/mascot.png" height="300" alt="Picture of the IT Mascot, A distinctive character for immediate recognition">
 </>
 - All links opens in a new window.
