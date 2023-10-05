@@ -456,6 +456,7 @@ video {
         line-height: 1.8rem;
     }
 }
+/* MEDIA QUERY ABOVE 992PX*/
 @media screen and (min-width: 992px) {
 .fixus-hero{
     margin-top: 16rem;

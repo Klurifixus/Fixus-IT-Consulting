@@ -237,7 +237,10 @@ I know you should'nt have one on autoplay, but i wanted it. So i created it!
 <img src="/thanks-tablet.png" height="250" alt="Picture of the Thanks.html and the mp4 file that opens automatically.">
 I know you should'nt have one on autoplay, but i wanted it. So i created it!
 
-
+## Bugs
+- Used a empty div to make space in the bottom of the contact.html page.
+- Used added margin-bottom and top to adjust view, because of flaws in flexbox an all pages.
+ 
 ## Tools I Have Used
 
 - Visual Studio for coding.
