@@ -73,12 +73,16 @@ Our approach to website design and user experience includes the following princi
 
 ## Wireframes
 Wireframes for desktop, tablet, and mobile devices have been created using Balsamiq software to ensure a logical layout for every page of the website.
-![Wireframes Index](/index-basamiq.png) 
+
 - The Index.html as i wanted it.
-![Wireframes About](/about-basamiq.png)
+![Wireframes Index](/index-basamiq.png) 
+
 - The About.html as i wanted it.
-![Wireframes Contact](/contact-basamiq.png)
+![Wireframes About](/about-basamiq.png)
+
 - The Contact.html as i wanted it.
+![Wireframes Contact](/contact-basamiq.png)
+
 
 
 ## Color Theme
@@ -100,8 +104,8 @@ Below are some features the site currently offers, as well as potential features
 ![NavBar](/contact-mobile-nav.png)
 ![Footer](/footer-socialmedia(1).png)
 ![Menu](/head-logo-hamburger.png)
-[Menu](/head-logo-menu.png)
-[Favicon](/favicon2.png)
+[Menu link](/head-logo-menu.png)
+[Favicon link](/favicon2.png)
 
 
 - All links opens in a new window.
@@ -109,8 +113,10 @@ Below are some features the site currently offers, as well as potential features
 - "Thank You" Page: A dedicated page featuring an engaging animation that initiates automatically upon the form submission.
 - Staff Information: Details about our team members.
 - Social Media Links: Located in the footer.
+
 ![Favicon](/favicon1.png)
 - Favicon: A unique icon for easy recognition.
+
 ![Mascot](/mascot.png)
 - IT Mascot: A distinctive character for immediate recognition.
 
