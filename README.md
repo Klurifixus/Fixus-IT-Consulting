@@ -164,24 +164,28 @@ During the development phase, the site has undergone continuous testing, includi
 
 - Testing the Home Page
 <img src="/index-lighthouse.png" height="300" alt="Lighthouse test shows good scores">
-![Lighthouse Index](/index-lighthouse.png)
-![Lighthouse Index1](/index-lighthouse2.png)
-![Lighthouse Index2](/index-lighthouse3.png)
-![Lighthouse Index3](/assets/readme/index-lighthouse4.png)
+<img src="/index-lighthouse2.png" height="300" alt="Lighthouse test shows scores">
+<img src="/index-lighthouse3.png" height="300" alt="Lighthouse test shows scores">
+<img src="/index-lighthouse4.png" height="300" alt="Lighthouse test shows scores">
+
 - Testing the About Page
-![Lighthouse About](/about-lighthouse.png)
-![Lighthouse About1](/about-lighthouse2.png)
+<img src="/about-lighthouse.png" height="300" alt="Lighthouse test shows scores">
+<img src="/about-lighthouse2.png" height="300" alt="Lighthouse test shows scores">
+
 - Testing the Contact Page
-![Lighthouse Contact](/contact-lighthouse.png)
+<img src="/contact-lighthouse.png" height="300" alt="Lighthouse test shows scores">
+<img src="/contact-lighthouse2.png" height="300" alt="Lighthouse test shows scores">
 - Testing the Thanks Page
-![Lighthouse Thanks](/thanks-lighthouse.png)
+<img src="/thanks-lighthouse.png" height="300" alt="Lighthouse test shows scores">
+
 - Validator Testing
-![W3C HTML](/w3c-html.png)
-![W3C CSS](/wc3css.png)
+<img src="/w3c-html.png" height="300" alt="W3C HTML test shows scores">
+<img src="/wc3css.png" height="300" alt="W3C CSS test shows scores">
 - Performance Testing
-![Page Speed Insight](/page-speed-insight.png)
+<img src="/page-speed-insight.png" height="300" alt="Page Speed Insight test shows scores">
+
 - Plagiarism Testing
-![Copyscape](//copyscape.png)
+<img src="/copyscape.png" height="300" alt="Plagiarism Testing shows scores">
 
 ## Platform View Desktop
 ![Desktop](/index-desktop.png)
