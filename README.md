@@ -163,7 +163,7 @@ Below are some features the site currently offers, as well as potential features
 During the development phase, the site has undergone continuous testing, including:
 
 - Testing the Home Page
-<img src="/index-lighthouse.png" width="200" height="150" alt="Lighthouse test shows good scores">
+<img src="/index-lighthouse.png" width="500" height="300" alt="Lighthouse test shows good scores">
 ![Lighthouse Index](/index-lighthouse.png)
 ![Lighthouse Index1](/index-lighthouse2.png)
 ![Lighthouse Index2](/index-lighthouse3.png)
