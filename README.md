@@ -110,7 +110,7 @@ Below are some features the site currently offers, as well as potential features
 - Staff Information: Details about our team members.
 - Social Media Links: Located in the footer.
 - Favicon: A unique icon for easy recognition.
-![Favicon](/favicon2.png)
+![Favicon](/favicon1.png)
 - IT Mascot: A distinctive character for immediate recognition.
 ![Mascot](/mascot.png)
 
