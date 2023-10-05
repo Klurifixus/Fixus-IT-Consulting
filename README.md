@@ -104,7 +104,9 @@ Below are some features the site currently offers, as well as potential features
 ![NavBar](/contact-mobile-nav.png)
 ![Footer](/footer-socialmedia(1).png)
 ![Menu](/head-logo-hamburger.png)
+
 [Menu link](/head-logo-menu.png)
+
 [Favicon link](/favicon2.png)
 
 
