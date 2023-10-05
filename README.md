@@ -213,6 +213,7 @@ Below are some features the site currently offers:
 <img src="/about-desktop.png" height="200" alt="Desktop view over about.html">
 <img src="/contact-desktop.png" height="200" alt="Desktop view over contact.html">
 </>
+
 - This is a view over the tree first pages from a desktops point of view. I didn't include the Thanks.html page because i don't think it's finished.
 
 ## Platform View Tablet
@@ -222,6 +223,7 @@ Below are some features the site currently offers:
 <img src="/contact-tablet.png" height="250" alt="Tablet view over contact.html">
 <img src="/thanks-tablet.png" height="250" alt="Tablet view over thanks.html">
 </>
+
 - This is a view over the tree first pages from a tablets point of view. I included the thanks.html just to show you.
 
 ## Platform View Mobile
@@ -230,6 +232,7 @@ Below are some features the site currently offers:
 <img src="/about-mobile.png" height="250" alt="Mobile view over about.html">
 <img src="/contact-mobile.png" height="250" alt="Mobile view over contact.html">
 </>
+
 - This is how it looks on a cellphone. I have on the picture added out the scrolling part.
 
 ## Deployment
@@ -387,4 +390,6 @@ My hope is that this project meets the necessary criteria. While perfection wasn
 - If you want to erase changes and revert to a previous commit, first find the commit hash from `git log`.
 - Type `git reset --hard [COMMIT_HASH]` and press Enter. This will take your project back to the state of that commit.
 
-# Happy CODING!
+## Thanks for your time, I Hope this have given you some insights of what I've done and maybe saved you some time!
+- If you have any questions please contact me on: Pirrefixus@gmail.com
+Best Regards:// Pierre
