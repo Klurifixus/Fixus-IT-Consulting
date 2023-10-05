@@ -198,23 +198,26 @@ During the development phase, the site has undergone continuous testing, includi
 <img src="/copyscape.png" height="300" alt="Plagiarism Testing shows scores">
 
 ## Platform View Desktop
-<img src="/index-desktop.png" height="250" alt="Desktop view over index.html">
-<img src="/about-desktop.png" height="250" alt="Desktop view over about.html">
-<img src="/contact-desktop.png" height="250" alt="Desktop view over contact.html">
-
+<p float="left">
+<img src="/index-desktop.png" height="200" alt="Desktop view over index.html">
+<img src="/about-desktop.png" height="200" alt="Desktop view over about.html">
+<img src="/contact-desktop.png" height="200" alt="Desktop view over contact.html">
+</>
 
 ## Platform View Tablet
+<p float="left">
 <img src="/index-tablet.png" height="250" alt="Tablet view over index.html">
 <img src="/about-tablet.png" height="250" alt="Tablet view over about.html">
 <img src="/contact-tablet.png" height="250" alt="Tablet view over contact.html">
 <img src="/thanks-tablet.png" height="250" alt="Tablet view over thanks.html">
-
+</>
 
 ## Platform View Mobile
+<p float="left">
 <img src="/index-mobile.png" height="250" alt="Mobile view over index.html">
 <img src="/about-mobile.png" height="250" alt="Mobile view over about.html">
 <img src="/contact-mobile.png" height="250" alt="Mobile view over contact.html">
-
+</>
 
 ## Deployment
 
