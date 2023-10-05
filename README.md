@@ -163,24 +163,31 @@ Below are some features the site currently offers, as well as potential features
 During the development phase, the site has undergone continuous testing, including:
 
 - Testing the Home Page
+<p float="left">
 <img src="/index-lighthouse.png" height="300" alt="Lighthouse test shows good scores">
 <img src="/index-lighthouse2.png" height="300" alt="Lighthouse test shows scores">
 <img src="/index-lighthouse3.png" height="300" alt="Lighthouse test shows scores">
 <img src="/index-lighthouse4.png" height="300" alt="Lighthouse test shows scores">
-
+</>
 - Testing the About Page
+<p float="left">
 <img src="/about-lighthouse.png" height="300" alt="Lighthouse test shows scores">
 <img src="/about-lighthouse2.png" height="300" alt="Lighthouse test shows scores">
+</>
 
 - Testing the Contact Page
+<p float="left">
 <img src="/contact-lighthouse.png" height="300" alt="Lighthouse test shows scores">
 <img src="/contact-lighthouse2.png" height="300" alt="Lighthouse test shows scores">
+</>
 - Testing the Thanks Page
 <img src="/thanks-lighthouse.png" height="300" alt="Lighthouse test shows scores">
 
 - Validator Testing
+<p float="left">
 <img src="/w3c-html.png" height="300" alt="W3C HTML test shows scores">
 <img src="/wc3css.png" height="300" alt="W3C CSS test shows scores">
+</>
 - Performance Testing
 <img src="/page-speed-insight.png" height="300" alt="Page Speed Insight test shows scores">
 
