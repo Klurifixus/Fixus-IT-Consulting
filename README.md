@@ -72,14 +72,19 @@ Our approach to website design and user experience includes the following princi
 - Contact Form: Users can easily reach out to us with questions or inquiries.
 
 ## Wireframes
-![Wireframes Index](/index-basamiq.png) 
-![Wireframes About](/about-basamiq.png)
-![Wireframes Contact](/contact-basamiq.png)
 Wireframes for desktop, tablet, and mobile devices have been created using Balsamiq software to ensure a logical layout for every page of the website.
+![Wireframes Index](/index-basamiq.png) 
+- The Index.html as i wanted it.
+![Wireframes About](/about-basamiq.png)
+- The About.html as i wanted it.
+![Wireframes Contact](/contact-basamiq.png)
+- The Contact.html as i wanted it.
+
 
 ## Color Theme
-![Pallet](/pallet.png)
+
 Our commitment to innovation and modernity is reflected in our visual identity. We have chosen the color blue for its associations with trust, dependability, and professionalism. Blue also promotes clear communication and technology. 
+![Pallet](/pallet.png)
 
 ## Typography
 
