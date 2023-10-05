@@ -169,6 +169,7 @@ During the development phase, the site has undergone continuous testing, includi
 <img src="/index-lighthouse3.png" height="300" alt="Lighthouse test shows scores">
 <img src="/index-lighthouse4.png" height="300" alt="Lighthouse test shows scores">
 </>
+
 - Testing the About Page
 <p float="left">
 <img src="/about-lighthouse.png" height="300" alt="Lighthouse test shows scores">
