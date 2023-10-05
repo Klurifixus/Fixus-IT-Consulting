@@ -111,8 +111,9 @@ Below are some features the site currently offers, as well as potential features
 - Social Media Links: Located in the footer.
 - Favicon: A unique icon for easy recognition.
 ![Favicon](/favicon1.png)
-- IT Mascot: A distinctive character for immediate recognition.
+
 ![Mascot](/mascot.png)
+- IT Mascot: A distinctive character for immediate recognition.
 
 
 ## Future Features: 
@@ -122,8 +123,6 @@ Below are some features the site currently offers, as well as potential features
 - Staff video presentations to introduce our dedicated team.
 - Direct links to our social media profiles for better engagement.
 - Transition our form submission method from GET to POST once the appropriate server support is in place."
-
-## License
 
 ### Usage:
 
