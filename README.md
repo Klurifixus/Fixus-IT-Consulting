@@ -99,6 +99,8 @@ Our commitment to innovation and modernity is reflected in our visual identity. 
 ## Features
 
 Below are some features the site currently offers:
+
+
 ![NavBar](/about-mobie-nav.png)
 ![NavBar](/index-mobile-nav.png)
 ![NavBar](/contact-mobile-nav.png)
