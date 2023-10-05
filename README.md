@@ -110,10 +110,10 @@ Below are some features the site currently offers:
 <img src="/head-logo-hamburger.png" height="80" alt="Picture of the logo and the hamburger menu icon">
 <img src="/head-logo-menu.png" height="80" alt="Picture of the logo and the menu viewed on desktop">
 <img src="/favicon1.png" height="80" alt="Picture of the favicon icon looks">
-<img src="/favicon2.png" height="300" alt="Picture of the favicon on the browser">
+<img src="/favicon2.png" height="420" alt="Picture of the favicon on the browser">
 
 
-</>
+
 - All links opens in a new window.
 - Contact Form: Users can reach out to us through the website.
 - "Thank You" Page: A dedicated page featuring an engaging animation that initiates automatically upon the form submission.
@@ -159,44 +159,51 @@ Below are some features the site currently offers:
 
 - During the development phase, the site has undergone continuous testing, including:
 
-- Testing the Home Page
+### Testing the Home Page
 <p float="left">
 <img src="/index-lighthouse.png" height="300" alt="Lighthouse test shows good scores">
 <img src="/index-lighthouse2.png" height="300" alt="Lighthouse test shows scores">
 <img src="/index-lighthouse3.png" height="300" alt="Lighthouse test shows scores">
 <img src="/index-lighthouse4.png" height="300" alt="Lighthouse test shows scores">
 </>
+
 - As you can se, there are som flaws. Much repeat them self on all pages.
 
-- Testing the About Page
+### Testing the About Page
 <p float="left">
 <img src="/about-lighthouse.png" height="300" alt="Lighthouse test shows scores">
 <img src="/about-lighthouse2.png" height="300" alt="Lighthouse test shows scores">
 </>
+
 - Flaws here as well.
 
-- Testing the Contact Page
+### Testing the Contact Page
 <p float="left">
 <img src="/contact-lighthouse.png" height="300" alt="Lighthouse test shows scores">
 <img src="/contact-lighthouse2.png" height="300" alt="Lighthouse test shows scores">
 </>
+
 - Here to....
-- Testing the Thanks Page
+
+### Testing the Thanks Page
+
 <img src="/thanks-lighthouse.png" height="300" alt="Lighthouse test shows scores">
+
 - And i belive there are needed adjustments here for the mp4 file. It's not showing the whole picture. Incounter the same problem as the other pages aswell.
 
-- Validator Testing
+### Validator Testing
 <p float="left">
 <img src="/w3c-html.png" height="300" alt="W3C HTML test shows scores">
 <img src="/wc3css.png" height="300" alt="W3C CSS test shows scores">
 </>
+
 - This looks ok!
 
-- Performance Testing
+### Performance Testing
 <img src="/page-speed-insight.png" height="300" alt="Page Speed Insight test shows scores">
 - 88 in preformance is because of an large image mascot. Didn't have time to fix that.
 
-- Plagiarism Testing
+### Plagiarism Testing
 <img src="/copyscape.png" height="300" alt="Plagiarism Testing shows scores">
 - Tried this one just to show you that i am an artist, i take inspiration and make it my own!
 
